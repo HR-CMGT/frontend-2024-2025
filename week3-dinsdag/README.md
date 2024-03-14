@@ -200,13 +200,14 @@ De HTML van de pagina staat nu volledig, dus het wordt tijd om hier styling aan 
 Je hebt hier het volgende voor nodig:
 
 | HTML | CSS                    | Gebruikte kleuren |
-| ---- | ---------------------- | ----------------- |
+| ---- |------------------------| ----------------- |
 | -    | Selecting o.b.v. tag   | #717D96           |
 |      | Selecting o.b.v. class | #A0ABC0           |
 |      | font-family            | #E2E7F0           |
 |      | color                  | #4A5468           |
 |      | background-color       | #FFFFFF           |
 |      | text-align             |                   |
+|      | padding                |                   |
 
 <br>
 

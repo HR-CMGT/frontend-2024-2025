@@ -72,7 +72,7 @@ hebben. Zo is een `<h1>` bijvoorbeeld standaard groter dan een `<h6>`, dus de va
 het meest
 past bij het uiterlijk dat jij zoekt, maar dat is dus niet de bedoeling. Dus onthoudt:
 
-> ⚠️ Je mag een tag *nooit* gebruiken, vanwege het standaard uiterlijk. ***Nooit!***
+> ⚠️ Je mag een tag *nooit* gebruiken vanwege het standaard uiterlijk. ***Nooit!***
 
 Wanneer mag je een tag dan wel gebruiken? Wanneer het de type content representeert die het moet zijn. Is het de
 hoofdtitel? Dan gebruik je `<h1>`. Is het de titel daaronder? Dan gebruik je `<h2>`, etc.
