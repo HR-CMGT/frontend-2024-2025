@@ -56,7 +56,7 @@ De opdracht is om onderstaande wireframe na te bouwen, ***zoals omschreven in de
 ### Van wireframe naar ontwerp
 - Bedenk waar jouw website over gaat. 
 - Gebruik *teksten* en *afbeeldingen* die logisch zijn bij jouw onderwerp.
-- Kies zelf bijpassende kleuren. Maak eventueel gebruik van een kleurpalet: [https://coolors.co/palettes/palettes](https://coolors.co/palettes/palettes).
+- Kies zelf bijpassende kleuren. Maak eventueel gebruik van een kleurpalet zoals [coolors](https://coolors.co/palettes/palettes) of [Realtime Colors](https://www.realtimecolors.com/).
 - Kies bijpassende fonts. Tip: gebruik een fancy font voor grote kopteksten, en een prettig leesbaar font voor bodyteksten.
   
 <br>
