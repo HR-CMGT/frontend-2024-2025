@@ -136,7 +136,7 @@ inspector en voer de volgende opdrachten daarin uit:
 
 Vorige les heb je een project aangemaakt voor dit vak, waarschijnlijk heb je deze `frontend-development` genoemd. Maak
 hierin een nieuwe map aan met de naam `top3` (zonder spaties) en zet de basisstructuur neer, zoals uitgelegd
-in [opdracht 1d van vorige les](../week3-dinsdag/#opdracht-1d---bestandsstructuur-html-en-css). De komende drie
+in [opdracht 1d van vorige les](../les1/#opdracht-1d---bestandsstructuur-html-en-css). De komende drie
 opdrachten maak je in deze map, dus je breidt jouw webpagina met iedere opdracht uit.
 <br><br>
 Bouw vervolgens het volgende ontwerp na *(klik op de afbeelding om te vergroten)*.
@@ -168,7 +168,7 @@ Je hebt hier het volgende voor nodig:
 
 - [Instructie CMGT-dag over structuur aanbrengen](https://www.youtube.com/watch?v=h042V7L6NXM&t=160s) (*de video start
   op 02:40, bekijk tot 08:00, de rest is niet van toepassing voor deze opdracht*)
-- [Cheatsheet HTML & CSS](../week3-dinsdag/cheatsheet/Cheatsheet-HTML-CSS.pdf)
+- [Cheatsheet HTML & CSS](../les1/cheatsheet/Cheatsheet-HTML-CSS.pdf)
 - [Wireframe basisstructuur HTML](./images/Basisstructuur-HTML.jpg  )
 
 <br><hr><br>
@@ -198,7 +198,7 @@ Je hebt hier het volgende voor nodig:
 
 **Hulpbronnen opdracht 2**
 
-- [Cheatsheet HTML & CSS](../week3-dinsdag/cheatsheet/Cheatsheet-HTML-CSS.pdf)
+- [Cheatsheet HTML & CSS](../les1/cheatsheet/Cheatsheet-HTML-CSS.pdf)
 - [Introductievideo CSS](https://www.youtube.com/watch?v=apC46Wfvd94 "Introductievideo CSS") (*bekijk tot 11:00, het
   deel erna is niet van toepassing voor dit vak*)
 

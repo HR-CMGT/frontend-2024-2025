@@ -321,9 +321,9 @@ In de komende opdrachten werk je toe naar een compleet formulier met alle opties
 ## Opdracht 1: Nieuw project opzetten
 Voor de lesopdracht van vandaag moet je een nieuw project opzetten, anders kan je opdracht 6 namelijk niet uitvoeren. Voer de volgende stappen uit:
 
-1. Maak een nieuw project aan en noem die `forms`, zoals omschreven in [opdracht 1c van les 1](../week3-dinsdag/#opdracht-1c---eerste-project-aanmaken). Zet daarin de bestandsstructuur neer, zoals omschreven in [opdracht 1d uit les 1](../week3-dinsdag/#opdracht-1d---bestandsstructuur-html-en-css).
+1. Maak een nieuw project aan en noem die `forms`, zoals omschreven in [opdracht 1c van les 1](../les1/#opdracht-1c---eerste-project-aanmaken). Zet daarin de bestandsstructuur neer, zoals omschreven in [opdracht 1d uit les 1](../les1/#opdracht-1d---bestandsstructuur-html-en-css).
 2. Maak vervolgens in de nieuwe map `forms` nog een bestand aan met de naam `contact.html`. Kopieer de volledige inhoud van `index.html` en plak deze in `contact.html`. Dubbelcheck of je nu in beide bestanden dezelfde link hebt naar de `style.css`, zodat je dezelfde stijl op beide pagina's kan gebruiken.
-3. Kopieer vervolgens de volgende startcode. Pas nog wel in beide HTML-bestanden de `href` van alle linkjes aan in de `<nav>`, zodat deze linken naar de juiste pagina. Voor meer info over hoe je dit correct instelt, [lees dit dan hier terug bij les 3](../week4-dinsdag/#html-voor-de-navigatie).
+3. Kopieer vervolgens de volgende startcode. Pas nog wel in beide HTML-bestanden de `href` van alle linkjes aan in de `<nav>`, zodat deze linken naar de juiste pagina. Voor meer info over hoe je dit correct instelt, [lees dit dan hier terug bij les 3](../les3/#html-voor-de-navigatie).
 4. Open de `index.html` met Live Server en controleer of de navigatie werkt. Wanneer je naar de andere pagina navigeert zou de `<h1>` moeten veranderen, want die is anders per pagina, maar de vormgeving zou wel hetzelfde moeten blijven.
 
 <br>

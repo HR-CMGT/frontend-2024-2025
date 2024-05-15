@@ -156,7 +156,7 @@ Je begint met de `<nav>` met daarin één of meerdere `<a>`. Tot zover niets nie
 
 **Linken binnen dezelfde pagina**
 <br>
-Het is mogelijk om te linken naar een onderdeel op dezelfde pagina. Dus stel, er staan drie secties op jouw pagina, dan zou je in de navigatie per sectie een `<a>` in de `<nav>` kunnen plaatsen. Dit is vooral handig bij hele lange pagina's, zodat je gemakkelijk van de ene sectie naar de andere kan klikken. Een voorbeeld van de code hiervoor vind je terug in de [Cheatsheet HTML & CSS](../week3-dinsdag/cheatsheet/Cheatsheet-HTML-CSS.pdf) op pagina 2.
+Het is mogelijk om te linken naar een onderdeel op dezelfde pagina. Dus stel, er staan drie secties op jouw pagina, dan zou je in de navigatie per sectie een `<a>` in de `<nav>` kunnen plaatsen. Dit is vooral handig bij hele lange pagina's, zodat je gemakkelijk van de ene sectie naar de andere kan klikken. Een voorbeeld van de code hiervoor vind je terug in de [Cheatsheet HTML & CSS](../les1/cheatsheet/Cheatsheet-HTML-CSS.pdf) op pagina 2.
 
 <br>
 
