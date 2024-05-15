@@ -1,9 +1,9 @@
-# Week 4 - Mini-oefeningen - Flexbox
+# Les 3 - Mini-oefeningen - Flexbox
 
 <br>
 
 **Inhoudsopgave**
-- [Week 4 - Mini-oefeningen - Flexbox](#week-4---mini-oefeningen---flexbox)
+- [Les 3 - Mini-oefeningen - Flexbox](#les-3---mini-oefeningen---flexbox)
   - [Inleiding](#inleiding)
   - [Mini-oefening 1](#mini-oefening-1)
   - [Mini-oefening 2](#mini-oefening-2)

@@ -1,11 +1,11 @@
-# Week 5 - Dinsdag
+# Les 5
 
 > *“A Pixel is Not a Pixel”*
 
 <br>
 
 **Inhoudsopgave**
-- [Week 5 - Dinsdag](#week-5---dinsdag)
+- [Les 5](#les-5)
 - [Inhoud](#inhoud)
   - [Responsive design](#responsive-design)
     - [Meta viewport](#meta-viewport)

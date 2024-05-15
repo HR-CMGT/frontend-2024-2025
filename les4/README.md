@@ -1,7 +1,7 @@
-# Week 4 - Donderdag
+# Les 4
 
 **Inhoudsopgave**
-- [Week 4 - Donderdag](#week-4---donderdag)
+- [Les 4](#les-4)
   - [De tussenopdracht](#de-tussenopdracht)
   - [Google Fonts](#google-fonts)
   - [Stap 1: Nieuw project aanmaken](#stap-1-nieuw-project-aanmaken)
@@ -76,6 +76,6 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 
 <br>
 
-<img width="1012" alt="WireframeWeek4" src="wireframe/wireframe-tussenopdracht.png">
+<img width="1012" alt="Wireframe les 4" src="wireframe/wireframe-tussenopdracht.png">
 
 [Download: Wireframe tussenopdracht PDF](https://github.com/HR-CMGT/frontend-2023-2024/files/12676336/wireframe-tussenopdracht.pdf)

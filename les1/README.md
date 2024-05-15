@@ -1,10 +1,10 @@
-# Week 3 - Dinsdag
+# Les 1
 
 <br>
 
 **Inhoudsopgave**
 
-- [Week 3 - Dinsdag](#week-3---dinsdag)
+- [Les 1](#les-1)
   - [Opdracht 1 - Werkomgeving gereed maken](#opdracht-1---werkomgeving-gereed-maken)
     - [Opdracht 1a - Visual Studio Code installeren](#opdracht-1a---visual-studio-code-installeren)
     - [Opdracht 1b - Extensie Live Server installeren](#opdracht-1b---extensie-live-server-installeren)
@@ -200,7 +200,7 @@ De HTML van de pagina staat nu volledig, dus het wordt tijd om hier styling aan 
 Je hebt hier het volgende voor nodig:
 
 | HTML | CSS                    | Gebruikte kleuren |
-| ---- |------------------------| ----------------- |
+| ---- | ---------------------- | ----------------- |
 | -    | Selecting o.b.v. tag   | #717D96           |
 |      | Selecting o.b.v. class | #A0ABC0           |
 |      | font-family            | #E2E7F0           |

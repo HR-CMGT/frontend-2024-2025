@@ -1,9 +1,9 @@
-# Week 3 - Mini-oefeningen - Padding & margin
+# Les 2 - Mini-oefeningen - Padding & margin
 
 <br>
 
 **Inhoudsopgave**
-- [Week 3 - Mini-oefeningen - Padding \& margin](#week-3---mini-oefeningen---padding--margin)
+- [Les 2 - Mini-oefeningen - Padding \& margin](#les-2---mini-oefeningen---padding--margin)
   - [Inleiding](#inleiding)
     - [Hulpbronnen](#hulpbronnen)
   - [Mini-oefening 1](#mini-oefening-1)

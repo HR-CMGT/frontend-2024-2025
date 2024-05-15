@@ -1,6 +1,6 @@
-# Week 6 - Dinsdag
+# Les 7
 
-- [Week 6 - Dinsdag](#week-6---dinsdag)
+- [Les 7](#les-7)
 - [Inhoud](#inhoud)
   - [What CSS can do](#what-css-can-do)
   - [Transition](#transition)
@@ -19,6 +19,7 @@
   - [Zelfstandig oefenen](#zelfstandig-oefenen)
     - [Falling cards](#falling-cards)
     - [Audio bars](#audio-bars)
+- [Responsive design](#responsive-design)
 - [Links](#links)
 
 

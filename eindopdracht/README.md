@@ -1,7 +1,7 @@
-# Week 6 eindopdracht
+# Eindopdracht
 
 **Inhoudsopgave**
-- [Week 6 eindopdracht](#week-6-eindopdracht)
+- [Eindopdracht](#eindopdracht)
   - [De eindopdracht](#de-eindopdracht)
   - [Hulpbronnen](#hulpbronnen)
   - [Stap 1: Repository aanmaken](#stap-1-repository-aanmaken)

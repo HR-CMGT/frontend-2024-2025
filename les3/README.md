@@ -1,6 +1,6 @@
-# Week 4 - Dinsdag
+# Les 3
 
-- [Week 4 - Dinsdag](#week-4---dinsdag)
+- [Les 3](#les-3)
 - [Inhoud](#inhoud)
   - [Flexbox](#flexbox)
     - [Parent/child](#parentchild)
@@ -225,10 +225,10 @@ Ook hierbij geldt weer: wanneer er een handje op een linkje wordt getoond, dan w
 
 Voor deze opdracht heb je de volgende kleurcodes nodig:
 
-| Hex | RGB         | 
-|---------|--------------------|
-| `#000000` | `rgb(0,0,0)`         | 
-| `#FFFFFF` | `rgb(255,255,255)`   | 
+| Hex       | RGB                  |
+| --------- | -------------------- |
+| `#000000` | `rgb(0,0,0)`         |
+| `#FFFFFF` | `rgb(255,255,255)`   |
 | `#457B9D` | `rgb(69,123,157)`    |
 | `#A0ABC0` | `rgb(160, 171, 192)` |
 

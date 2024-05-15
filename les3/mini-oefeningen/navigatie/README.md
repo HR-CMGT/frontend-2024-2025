@@ -1,9 +1,9 @@
-# Week 4 - Mini-oefeningen - Navigatie
+# Les 3 - Mini-oefeningen - Navigatie
 
 <br>
 
 **Inhoudsopgave**
-- [Week 4 - Mini-oefeningen - Navigatie](#week-4---mini-oefeningen---navigatie)
+- [Les 3 - Mini-oefeningen - Navigatie](#les-3---mini-oefeningen---navigatie)
   - [Inleiding](#inleiding)
   - [Belangrijke informatie!](#belangrijke-informatie)
   - [Mini-oefening 1](#mini-oefening-1)

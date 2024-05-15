@@ -1,7 +1,7 @@
-# Week 5 - Donderdag
+# Les 6
 
 **Inhoudsopgave**
-- [Week 5 - Donderdag](#week-5---donderdag)
+- [Les 6](#les-6)
 - [Inhoud](#inhoud)
   - [Formulieren](#formulieren)
   - [Type invoervelden](#type-invoervelden)
