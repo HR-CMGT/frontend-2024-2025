@@ -223,7 +223,7 @@ Je hebt hier het volgende voor nodig:
 
 Voeg één of meerdere afbeeldingen toe aan jouw pagina. Je mag zelf bepalen welke afbeeldingen je voor deze oefening gebruikt en waar je ze op de pagina toevoegt. Dit werkt iets anders dan je gewend bent in Codepen. Je zult de afbeelding namelijk eerst moeten opslaan in de projectmap, om die vervolgens in te laden in de HTML. Doorloop de volgende stappen:
 
-1. Maak in de map `week3-les1` een nieuwe map aan met de naam `images`;
+1. Maak in de map `les1` een nieuwe map aan met de naam `images`;
 2. Plaats in deze nieuwe map jouw afbeelding(en);
 3. Voer tot slot de afbeelding(en) in de HTML in met de volgende code (vervang de placeholders):
 

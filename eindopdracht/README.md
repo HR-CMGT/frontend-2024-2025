@@ -76,7 +76,7 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 
 ### Desktop wireframe
 
-<img width="1012" alt="week6-desktop" src="wireframes/wireframe-eindopdracht-desktop.png">
+<img width="1012" alt="eindopdracht-desktop" src="wireframes/wireframe-eindopdracht-desktop.png">
 
 [Download: Wireframe desktop eindopdracht PDF](https://github.com/HR-CMGT/frontend-2023-2024/files/12573629/wireframe-eindopdracht-desktop.pdf)
 
@@ -84,7 +84,7 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 
 ### Mobile wireframe
 
-<img width="390" alt="week6-mobile" src="wireframes/wireframe-eindopdracht-mobile.png">
+<img width="390" alt="eindopdracht-mobile" src="wireframes/wireframe-eindopdracht-mobile.png">
 
 
 [Download: Wireframe mobile eindopdracht PDF](https://github.com/HR-CMGT/frontend-2023-2024/files/12573634/wireframe-eindopdracht-mobile.pdf)

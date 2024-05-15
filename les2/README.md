@@ -255,7 +255,7 @@ je eigen kleuren kiezen!
 
 > ⚠️ Kijk goed naar de details in het ontwerp en neem dit precies zo over.
 
-De benodigde afbeeldingen staan in de map `week3-donderdag/resources`.
+De benodigde afbeeldingen staan in de map `les2/resources`.
 
 <img src="./images/Opdracht4a.png" alt="Opdracht 4a" title="Opdracht 4a" width="1012">
 
@@ -276,7 +276,7 @@ kiezen, of de kleuren gebruiken die hieronder staan.
 
 > ⚠️ Kijk goed naar de details in het ontwerp en neem dit precies zo over.
 
-De benodigde afbeeldingen staan in de map `week3-donderdag/resources`.
+De benodigde afbeeldingen staan in de map `les2/resources`.
 
 <img src="./images/Opdracht4b.png" alt="Opdracht 4b" title="Opdracht 4b" width="1012">
 
