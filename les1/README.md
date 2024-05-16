@@ -174,7 +174,6 @@ Je hebt hier het volgende voor nodig:
 | footer  |     |                   |
 | nav     |     |                   |
 | section |     |                   |
-| div     |     |                   |
 
 <br>
 

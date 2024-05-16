@@ -41,7 +41,7 @@ Het is met Flexbox trouwens ook mogelijk om elementen weer onder elkaar te zette
 
 <br><br>
 
-> Naast Flexbox heb je ook nog Grid. Deze techniek staat ook in de Export-kolom in het beoordelingsmodel. Wil je hier
+> Naast Flexbox heb je ook nog Grid. Deze techniek staat ook in de Expert-kolom in het beoordelingsmodel. Wil je hier
 > meer over weten? Zie de [hulpbronnen bij de eindopdracht](../eindopdracht/).
 
 <br>
