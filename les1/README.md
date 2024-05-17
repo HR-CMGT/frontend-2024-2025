@@ -71,12 +71,12 @@ maak je (op een later moment) weer een nieuw project aan.
 
 Wanneer je met HTML en CSS werkt heb je altijd een bepaalde `bestandsstructuur` nodig van bestanden en mappen. Dat ga je
 in deze opdracht aanmaken. Allereerst is het goed om te weten dat je door de lessen heen een aantal hoofdopdrachten
-maakt. Iedere hoofdopdracht maak je in een eigen map, met daarin weer diezelfde bestandsstructuur die je in deze
+maakt. Iedere hoofdopdracht maak je in een eigen map in het project dat je bij [opdracht 1c](#opdracht-1c---eerste-project-aanmaken) hebt aangemaakt, met daarin weer diezelfde bestandsstructuur die je in deze
 opdracht gaat maken. Je gaat nu dus eerst een map voor de les van vandaag maken. Zorg ervoor dat links de `Explorer`
 geopend is (icoontje met de twee A4'tjes). De benodigde knoppen om deze opdracht uit te voeren vind je aan de
 linkerzijde, rechts van de projectnaam.
 
-1. Maak een map aan met de naam `les1` (zonder spaties);
+1. Maak een map aan met de naam `les1` (zonder spaties) door op de tweede knop rechts van de projectnaam te klikken (zie rode pijl in onderstaand screenshot);
 2. Maak in deze nieuwe map een bestand aan met de naam `index.html` en zet de basis-HTML neer door een `!` te typen en
    op de tab-toets te drukken;
 3. Maak een map aan met de naam `css` en maak hierin een bestand aan met de naam `style.css`;
