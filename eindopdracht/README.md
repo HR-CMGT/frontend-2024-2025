@@ -7,8 +7,10 @@
   - [Stap 1: Repository aanmaken](#stap-1-repository-aanmaken)
   - [Stap 2: GitHub Pages activeren](#stap-2-github-pages-activeren)
   - [Stap 3: Wireframes nabouwen](#stap-3-wireframes-nabouwen)
-    - [Desktop wireframe](#desktop-wireframe)
-    - [Mobile wireframe](#mobile-wireframe)
+    - [Desktop wireframe - Home](#desktop-wireframe---home)
+    - [Desktop wireframe - Contact](#desktop-wireframe---contact)
+    - [Mobile wireframe - Home](#mobile-wireframe---home)
+    - [Mobile wireframe - Contact](#mobile-wireframe---contact)
 
 <br><br>
 
@@ -74,17 +76,25 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 > - Je kan het **★** karakter gebruiken voor de "star ratings".
 > - 😱 Als iets niet lukt, ga dan niet "*paniek-googlen*". Geef aan waar je op vastloopt bij je docent, medestudent of peercoach.
 
-### Desktop wireframe
+### Desktop wireframe - Home
 
-<img width="1012" alt="eindopdracht-desktop" src="wireframes/wireframe-eindopdracht-desktop.png">
+<img width="1012" alt="Wireframe desktop voor home" src="wireframes/wireframe-home-desktop.png">
+
+### Desktop wireframe - Contact
+
+<img width="1012" alt="Wireframe desktop voor contact" src="wireframes/wireframe-contact-desktop.png">
 
 [Download: Wireframe desktop eindopdracht PDF](https://github.com/HR-CMGT/frontend-2023-2024/files/12573629/wireframe-eindopdracht-desktop.pdf)
 
 <br>
 
-### Mobile wireframe
+### Mobile wireframe - Home
 
-<img width="390" alt="eindopdracht-mobile" src="wireframes/wireframe-eindopdracht-mobile.png">
+<img width="390" alt="Wireframe desktop voor home" src="wireframes/wireframe-home-mobile.png">
+
+### Mobile wireframe - Contact
+
+<img width="390" alt="Wireframe desktop voor home" src="wireframes/wireframe-contact-mobile.png">
 
 
 [Download: Wireframe mobile eindopdracht PDF](https://github.com/HR-CMGT/frontend-2023-2024/files/12573634/wireframe-eindopdracht-mobile.pdf)
