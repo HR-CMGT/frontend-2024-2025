@@ -80,11 +80,13 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 
 <img width="1012" alt="Wireframe desktop voor home" src="wireframes/wireframe-home-desktop.png">
 
+[Download: Wireframe home - Desktop](https://github.com/HR-CMGT/frontend-2024-2025/files/15500304/wireframe-home-desktop.pdf)
+
 ### Desktop wireframe - Contact
 
 <img width="1012" alt="Wireframe desktop voor contact" src="wireframes/wireframe-contact-desktop.png">
 
-[Download: Wireframe desktop eindopdracht PDF](https://github.com/HR-CMGT/frontend-2023-2024/files/12573629/wireframe-eindopdracht-desktop.pdf)
+[Download: Wireframe contact - Desktop](https://github.com/HR-CMGT/frontend-2024-2025/files/15500290/wireframe-contact-desktop.pdf)
 
 <br>
 
@@ -92,12 +94,13 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 
 <img width="390" alt="Wireframe desktop voor home" src="wireframes/wireframe-home-mobile.png">
 
+[Download: Wireframe home - Mobile](https://github.com/HR-CMGT/frontend-2024-2025/files/15500316/wireframe-home-mobile.pdf)
+
 ### Mobile wireframe - Contact
 
 <img width="390" alt="Wireframe desktop voor home" src="wireframes/wireframe-contact-mobile.png">
 
-
-[Download: Wireframe mobile eindopdracht PDF](https://github.com/HR-CMGT/frontend-2023-2024/files/12573634/wireframe-eindopdracht-mobile.pdf)
+[Download: Wireframe contact - Mobile](https://github.com/HR-CMGT/frontend-2024-2025/files/15500326/wireframe-contact-mobile.pdf)
 
 
 
