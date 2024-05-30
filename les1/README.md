@@ -39,10 +39,10 @@ je eerst `Visual Studio Code` en vervolgens de extensie `Live Server` en maak je
 Om de door jou geschreven code te testen in de browser heb je een extensie nodig die dit mogelijk maakt,
 genaamd `Live Server`. Hiermee worden wijzigingen die je in de code maakt direct zichtbaar in de browser. In deze
 opdracht ga je de extensie alleen installeren, dus nog niet gebruiken, dat komt pas
-bij [opdracht 1d](#opdracht-1d---bestandsstructuur-html-en-css).
+bij [opdracht 1e](#opdracht-1e---code-testen).
 
 1. Wanneer Visual Studio Code geopend is, klik je links op `Extensions` (het icoontje met vier blokjes);
-2. Voer `Live Server` in de zoekbalk in en installeer de extensie (het is degene gemaakt door Ritwick Dey);
+2. Voer `Live Server` in de zoekbalk in en installeer de extensie (het is degene gemaakt door Ritwick Dey).
 
 <br>
 
@@ -149,8 +149,8 @@ Je hebt hier het volgende voor nodig:
 
 **Hulpbronnen opdracht 2**
 
-- [Introductievideo HTML & CSS](https://www.youtube.com/watch?v=0sQLdlAodfQ "Introductievideo HTML & CSS")
-- [Introductievideo HTML](https://www.youtube.com/watch?v=apC46Wfvd94 "Introductievideo HTML") (*bekijk tot 04:33, het
+- [Introductievideo HTML & CSS](https://www.youtube.com/watch?v=VrOva3hrlSA)
+- [Introductievideo HTML](https://www.youtube.com/watch?v=WO2jDnff6pk) (*bekijk tot 04:33, het
    deel erna is niet van toepassing voor dit vak*)
 
 <br><hr><br>
@@ -213,7 +213,7 @@ Je hebt hier het volgende voor nodig:
 **Hulpbronnen opdracht 4**
 
 - [Cheatsheet HTML & CSS](./cheatsheet/Cheatsheet-HTML-CSS.pdf)
-- [Introductievideo CSS](https://www.youtube.com/watch?v=apC46Wfvd94 "Introductievideo CSS") (*bekijk tot 11:00, het
+- [Introductievideo CSS](https://www.youtube.com/watch?v=7KrEybPFC48) (*bekijk tot 11:00, het
    deel erna is niet van toepassing voor dit vak*)
 
 <br><hr><br>
@@ -222,7 +222,7 @@ Je hebt hier het volgende voor nodig:
 
 Voeg één of meerdere afbeeldingen toe aan jouw pagina. Je mag zelf bepalen welke afbeeldingen je voor deze oefening gebruikt en waar je ze op de pagina toevoegt. Dit werkt iets anders dan je gewend bent in Codepen. Je zult de afbeelding namelijk eerst moeten opslaan in de projectmap, om die vervolgens in te laden in de HTML. Doorloop de volgende stappen:
 
-1. Maak in de map `les1` een nieuwe map aan met de naam `images`;
+1. Maak in de map `les1` een nieuwe map aan en noem deze `images`;
 2. Plaats in deze nieuwe map jouw afbeelding(en);
 3. Voer tot slot de afbeelding(en) in de HTML in met de volgende code (vervang de placeholders):
 
