@@ -1,9 +1,9 @@
-# Les 3 - Mini-oefeningen - Flexbox
+# Les 3 - Minipuzzels - Flexbox
 
 <br>
 
 **Inhoudsopgave**
-- [Les 3 - Mini-oefeningen - Flexbox](#les-3---mini-oefeningen---flexbox)
+- [Les 3 - Minipuzzels - Flexbox](#les-3---minipuzzels---flexbox)
   - [Inleiding](#inleiding)
   - [Mini-oefening 1](#mini-oefening-1)
   - [Mini-oefening 2](#mini-oefening-2)
@@ -15,11 +15,11 @@
 <br><br><br>
 
 ## Inleiding
-Voltooi onderstaande mini-oefeningen. Voor iedere oefening is er al code klaargezet die jij moet afronden. Let erop dat deze oefeningen alleen over CSS gaan. Dus je mag het HTML-bestand wel bekijken, maar schrijf alleen maar code in het CSS-bestand.
+Voltooi onderstaande minipuzzels. Voor iedere oefening is er al code klaargezet die jij moet afronden. Let erop dat deze oefeningen alleen over CSS gaan. Dus je mag het HTML-bestand wel bekijken, maar schrijf alleen maar code in het CSS-bestand.
 
 <br>
 
-**Hulpbronnen voor de mini-oefeningen**
+**Hulpbronnen voor de minipuzzels**
 
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexbox cheatsheet](../../images/css-flexbox-poster.png)<br><img src="../../images/css-flexbox-poster.png" alt="Flexbox cheatsheet" title="Flexbox cheatsheet" width="300">

@@ -1,9 +1,9 @@
-# Les 2 - Mini-oefeningen - Padding & margin
+# Les 2 - Minipuzzels - Padding & margin
 
 <br>
 
 **Inhoudsopgave**
-- [Les 2 - Mini-oefeningen - Padding \& margin](#les-2---mini-oefeningen---padding--margin)
+- [Les 2 - Minipuzzels - Padding \& margin](#les-2---minipuzzels---padding--margin)
   - [Inleiding](#inleiding)
     - [Hulpbronnen](#hulpbronnen)
   - [Mini-oefening 1](#mini-oefening-1)
@@ -17,7 +17,7 @@
 <br><hr><br>
 
 ## Inleiding
-Voltooi onderstaande mini-oefeningen. Voor iedere oefening is er al code klaargezet die jij moet afronden. Let erop dat deze oefeningen alleen over CSS gaan. Dus je mag het HTML-bestand wel bekijken, maar schrijf alleen maar code in het CSS-bestand.
+Voltooi onderstaande minipuzzels. Voor iedere oefening is er al code klaargezet die jij moet afronden. Let erop dat deze oefeningen alleen over CSS gaan. Dus je mag het HTML-bestand wel bekijken, maar schrijf alleen maar code in het CSS-bestand.
 
 <br>
 

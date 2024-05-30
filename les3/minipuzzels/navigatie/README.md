@@ -1,9 +1,9 @@
-# Les 3 - Mini-oefeningen - Navigatie
+# Les 3 - Minipuzzels - Navigatie
 
 <br>
 
 **Inhoudsopgave**
-- [Les 3 - Mini-oefeningen - Navigatie](#les-3---mini-oefeningen---navigatie)
+- [Les 3 - Minipuzzels - Navigatie](#les-3---minipuzzels---navigatie)
   - [Inleiding](#inleiding)
   - [Belangrijke informatie!](#belangrijke-informatie)
   - [Mini-oefening 1](#mini-oefening-1)
@@ -14,7 +14,7 @@
 <br><hr><br>
 
 ## Inleiding
-Voltooi onderstaande mini-oefeningen. Voor iedere oefening is er al code klaargezet die jij moet afronden.
+Voltooi onderstaande minipuzzels. Voor iedere oefening is er al code klaargezet die jij moet afronden.
 
 ## Belangrijke informatie!
 
@@ -36,7 +36,7 @@ Verder heb je de volgende kleurcodes nodig voor deze oefeningen:
 
 ## Mini-oefening 1
 
-In de startmap `mini-oefeningen/navigatie/oefening1` staat code klaar om te oefenen met het stylen van `<a>`. In de HTML staat een stuk gegenereerde tekst klaar met daarin meerdere linkjes. In de CSS staan alle mogelijke selectors al klaar. Stel voor iedere selector een `color` in en bekijk in de browser wat het effect daarvan is. Speel ook met andere waarden, zoals `background-color` en `text-decoration`.
+In de startmap `minipuzzels/navigatie/oefening1` staat code klaar om te oefenen met het stylen van `<a>`. In de HTML staat een stuk gegenereerde tekst klaar met daarin meerdere linkjes. In de CSS staan alle mogelijke selectors al klaar. Stel voor iedere selector een `color` in en bekijk in de browser wat het effect daarvan is. Speel ook met andere waarden, zoals `background-color` en `text-decoration`.
 
 <br><br><br>
 

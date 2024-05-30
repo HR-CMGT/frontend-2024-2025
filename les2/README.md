@@ -13,7 +13,7 @@
   - [Werken met de inspector](#werken-met-de-inspector)
 - [Quiz over semantische HTML-tags](#quiz-over-semantische-html-tags)
 - [Oefenen met de inspector](#oefenen-met-de-inspector)
-- [Mini-oefeningen - Padding \& margin](#mini-oefeningen---padding--margin)
+- [Minipuzzels - Padding \& margin](#minipuzzels---padding--margin)
 - [Opdracht: Top 3](#opdracht-top-3)
   - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
   - [Opdracht 2 - CSS: teksten en kleuren](#opdracht-2---css-teksten-en-kleuren)
@@ -124,9 +124,9 @@ inspector en voer de volgende opdrachten daarin uit:
 
 <br><hr><br>
 
-# Mini-oefeningen - Padding & margin
+# Minipuzzels - Padding & margin
 
-[Klik hier om de naar de mini-oefeningen te gaan.](./mini-oefeningen)
+[Klik hier om de naar de minipuzzels te gaan.](./minipuzzels)
 
 <br><hr><br>
 
