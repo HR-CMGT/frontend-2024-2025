@@ -11,8 +11,8 @@
   - [Navigatie](#navigatie)
     - [HTML voor de navigatie](#html-voor-de-navigatie)
     - [CSS voor de navigatie](#css-voor-de-navigatie)
-- [Mini oefeningen - Flexbox](#minipuzzels---flexbox)
-- [Mini oefeningen - Navigatie](#minipuzzels---navigatie)
+- [Minipuzzels - Flexbox](#minipuzzels---flexbox)
+- [Minipuzzels - Navigatie](#minipuzzels---navigatie)
 - [Opdracht: Foodblog](#opdracht-foodblog)
   - [Advanced opdracht](#advanced-opdracht)
 
@@ -205,13 +205,13 @@ a:hover {
 
 <br><hr><br>
 
-# Mini oefeningen - Flexbox
+# Minipuzzels - Flexbox
 
 [Klik hier om naar de minipuzzels over Flexbox te gaan.](minipuzzels/flexbox/)
 
 <br><hr><br>
 
-# Mini oefeningen - Navigatie
+# Minipuzzels - Navigatie
 
 [Klik hier om naar de minipuzzels over navigatie te gaan.](minipuzzels/navigatie/)
 
