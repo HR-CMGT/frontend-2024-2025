@@ -152,7 +152,7 @@ De voor- en nadelen hiervan zijn:
 
 Je kan dus op de pixel nauwkeurig een element instellen, maar de kans is groot dat deze instellingen op een groter of kleiner apparaat niet meer kloppen. Bedenk dus altijd goed:
 
-> Gebruik altijd relatieve units, behalve wanneer het niet anders kan.
+**Gebruik altijd relatieve units, behalve wanneer het niet anders kan.**
 
 ## Relatieve units
 
