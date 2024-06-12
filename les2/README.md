@@ -18,6 +18,7 @@
   - [Relatieve units](#relatieve-units)
   - [Meestgebruikte units](#meestgebruikte-units)
   - [Voorbeelden](#voorbeelden)
+  - [Extra hulpbronnen](#extra-hulpbronnen)
 - [Opdracht: Top 3](#opdracht-top-3)
   - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
   - [Opdracht 2 - CSS: teksten en kleuren](#opdracht-2---css-teksten-en-kleuren)
@@ -219,6 +220,12 @@ Wat zou er gebeuren wanneer de `section` smaller zou worden? Het enige wat in he
 <br>
 
 <img src="./images/units2.jpg" alt="Units" title="Units" width="1012">
+
+<br><br>
+
+## Extra hulpbronnen
+
+- [Video over welke units te gebruiken](https://www.youtube.com/watch?v=N5wpD9Ov_To)
 
 <br><hr><br>
 
