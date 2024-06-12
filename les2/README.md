@@ -12,6 +12,11 @@
 - [Quiz over semantische HTML-tags](#quiz-over-semantische-html-tags)
 - [Werken met de inspector](#werken-met-de-inspector)
   - [Opdrachten inspector](#opdrachten-inspector)
+- [CSS selectors](#css-selectors)
+- [Absolute units en relatieve units](#absolute-units-en-relatieve-units)
+  - [Absolute units](#absolute-units)
+  - [Relatieve units](#relatieve-units)
+  - [Meestgebruikte units](#meestgebruikte-units)
 - [Opdracht: Top 3](#opdracht-top-3)
   - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
   - [Opdracht 2 - CSS: teksten en kleuren](#opdracht-2---css-teksten-en-kleuren)
@@ -120,6 +125,64 @@ Nu je hebt geleerd hoe je de inspector opent en gebruikt wordt het tijd om deze 
 2. Pas van minimaal 3 teksten het lettertype aan;
 3. Pas van minimaal 3 elementen de achtergrondkleur aan;
 4. Pas de achtergrondkleur van de gehele webpagina aan;
+
+<br><hr><br>
+
+# CSS selectors
+
+...
+
+<br><hr><br>
+
+# Absolute units en relatieve units
+
+CSS units bepalen de afmetingen en posities van elementen op een webpagina. Denk hierbij aan het instellen van de `width` en `height`, maar bijvoorbeeld ook aan `font-size`, `padding` en `margin`.
+
+In dit hoofdstuk zul je leren over de verschillende soorten units en wanneer je welke moet gebruiken.
+
+## Absolute units
+
+Absolute units hebben een vaste grootte, ongeacht de context waarin ze worden gebruikt. Dit betekent dat de waarde die je instelt altijd dezelfde blijft, ongeacht de schermgrootte of andere factoren.
+De meestgebruikte absolute unit is `px`.  Gebruik `px` voor kleine, specifieke afmetingen die consistent moeten zijn, zoals icon-grootte of fijne details.
+
+De voor- en nadelen hiervan zijn:
+
+- **Voordeel**: Je hebt zekerheid over de afmeting van een element, omdat deze nooit veranderd.
+- **Nadeel**: Het voordeel is echter ook meteen het nadeel: ze schalen niet op verschillende apparaten en schermformaten. Dit kan resulteren in slechte weergave op kleinere of grotere schermen.
+
+Je kan dus op de pixel nauwkeurig een element instellen, maar de kans is groot dat deze instellingen op een groter of kleiner apparaat niet meer kloppen. Bedenk dus altijd goed:
+
+> Gebruik altijd relatieve units, behalve wanneer het niet anders kan.
+
+## Relatieve units
+
+Relatieve units geven een grootte aan die afhankelijk is van een andere grootte, zoals de grootte van het parent-element of het scherm (dit noemen we de `viewport`). Ze maken het mogelijk om flexibele en responsieve ontwerpen te creëren. De voor- en nadelen hiervan zijn:
+
+- **Voordeel**: Flexibel en responsief, geschikt voor verschillende schermformaten. Ze passen zich aan de context aan.
+- **Nadeel**: Geen.
+
+## Meestgebruikte units
+
+Hieronder vind je de tabel met de meest gebruikte units.
+
+| Naam unit | Type     | Omschrijving                                                                                                                                                     |
+| --------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `px`      | Absoluut | Hiermee bepaal je exact hoeveel pixels op je scherm er gebruikt moeten worden.<br> ⚠️ *Gebruik alleen `px` wanneer geen van onderstaande volstaat.*               |
+| `%`       | Relatief | Hiermee wordt de waarde bepaald op basis van de breedte of hoogte van de `parent`.                                                                               |
+| `vw`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `breedte` van de viewport (het zichtbare deel van de browser).                                                   |
+| `vh`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `hoogte` van de viewport (het zichtbare deel van de browser).                                                    |
+| `rem`     | Relatief | Hiermee wordt de waarde bepaald op basis van de `root font-size`, oftewel de font-size die op de `<html>` staat ingesteld.                                       |
+| `em`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `font-size` van het parent-element.<br> ⚠️ *Gebruik liever `rem` dan `em` omdat die makkelijker te gebruiken is.* |
+
+De vraag die je jezelf iedere keer weer moet stellen is:
+
+> Op basis van ***wat*** moet ik de grootte bepalen?
+
+- Stel je wilt de `width` van een `section` instellen. Moet deze dan relatief zijn aan de parent (`%`) of aan het hele scherm (`vw`)?
+- Of je wilt de `height` van de `header` instellen. Moet deze dan relatief zijn aan de hoogte van het scherm (`vh`) of moet deze altijd hetzelfde zijn op ieder scherm (`px`)?
+
+Door deze vragen te beantwoorden, kun je de juiste CSS units kiezen en ervoor zorgen dat je ontwerp zowel flexibel als consistent is op verschillende apparaten en schermformaten.
+Experimenteer met verschillende units om te begrijpen hoe ze zich gedragen in verschillende situaties en kies de meest geschikte unit voor elke specifieke toepassing.
 
 <br><hr><br>
 
