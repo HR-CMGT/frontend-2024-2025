@@ -13,7 +13,6 @@
 - [Quiz over semantische HTML-tags](#quiz-over-semantische-html-tags)
 - [Werken met de inspector](#werken-met-de-inspector)
   - [Opdrachten inspector](#opdrachten-inspector)
-- [Minipuzzels - Padding \& margin](#minipuzzels---padding--margin)
 - [Opdracht: Top 3](#opdracht-top-3)
   - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
   - [Opdracht 2 - CSS: teksten en kleuren](#opdracht-2---css-teksten-en-kleuren)
@@ -122,12 +121,6 @@ Nu je hebt geleerd hoe je de inspector opent en gebruikt wordt het tijd om deze 
 2. Pas van minimaal 3 teksten het lettertype aan;
 3. Pas van minimaal 3 elementen de achtergrondkleur aan;
 4. Pas de achtergrondkleur van de gehele webpagina aan;
-
-<br><hr><br>
-
-# Minipuzzels - Padding & margin
-
-[Klik hier om de naar de minipuzzels te gaan.](./minipuzzels)
 
 <br><hr><br>
 

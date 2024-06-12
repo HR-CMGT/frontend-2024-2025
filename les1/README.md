@@ -11,10 +11,11 @@
     - [Opdracht 1c - Eerste project aanmaken](#opdracht-1c---eerste-project-aanmaken)
     - [Opdracht 1d - Bestandsstructuur HTML en CSS](#opdracht-1d---bestandsstructuur-html-en-css)
     - [Opdracht 1e - Code testen](#opdracht-1e---code-testen)
-  - [Opdracht 2 - HTML](#opdracht-2---html)
-  - [Opdracht 3 - Basisstructuur HTML](#opdracht-3---basisstructuur-html)
-  - [Opdracht 4 - CSS](#opdracht-4---css)
-  - [Opdracht 5 - Images](#opdracht-5---images)
+  - [Opdracht 2 - Minipuzzels padding \& margin](#opdracht-2---minipuzzels-padding--margin)
+  - [Opdracht 3 - HTML](#opdracht-3---html)
+  - [Opdracht 4 - Basisstructuur HTML](#opdracht-4---basisstructuur-html)
+  - [Opdracht 5 - CSS](#opdracht-5---css)
+  - [Opdracht 6 - Images](#opdracht-6---images)
 
 <br><hr><br>
 
@@ -110,12 +111,18 @@ de volgende stappen leer je hoe je deze extensie gebruikt.
 
 <br><hr><br>
 
-> ⚠️ Opdracht 2 t/m 5 maak je in de bestanden die je bij [opdracht 1d](#opdracht-1d---bestandsstructuur-html-en-css)
+> ⚠️ Opdracht 3 t/m 5 maak je in de bestanden die je bij [opdracht 1d](#opdracht-1d---bestandsstructuur-html-en-css)
 > hebt gemaakt.
 
 <br>
 
-## Opdracht 2 - HTML
+## Opdracht 2 - Minipuzzels padding & margin
+
+[Klik hier om de naar de minipuzzels te gaan.](./minipuzzels)
+
+<br><hr><br>
+
+## Opdracht 3 - HTML
 
 Bouw het volgende ontwerp na *(klik op de afbeelding om te vergroten)*.
 <br>
@@ -123,7 +130,7 @@ In de tabel hieronder zie je welke HTML-tags je nodig hebt voor deze opdracht.
 
 > Als bonus mag je de navigatielinkjes bovenin werkend maken, maar dit is niet vereist voor deze opdracht.
 
-<img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="1012">
+<img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="1012">
 
 <br>
 
@@ -147,7 +154,7 @@ Je hebt hier het volgende voor nodig:
 
 <br>
 
-**Hulpbronnen opdracht 2**
+**Hulpbronnen Opdracht 3**
 
 - [Introductievideo HTML & CSS](https://www.youtube.com/watch?v=VrOva3hrlSA)
 - [Introductievideo HTML](https://www.youtube.com/watch?v=WO2jDnff6pk) (*bekijk tot 04:33, het
@@ -155,14 +162,14 @@ Je hebt hier het volgende voor nodig:
 
 <br><hr><br>
 
-## Opdracht 3 - Basisstructuur HTML
+## Opdracht 4 - Basisstructuur HTML
 
 Nu je de tekstuele elementen in de vorige opdracht hebt aangemaakt, wordt het tijd om hier structuur in aan te brengen
 met semantische tags. Zoals je in onderstaand ontwerp ziet, zal na deze opdracht de pagina visueel nog niet veranderd
 zijn, maar op de achtergrond heb je essentiële stappen genomen.
 In de tabel hieronder zie je welke HTML-tags je nodig hebt voor deze opdracht.
 
-<img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="1012">
+<img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="1012">
 
 <br>
 Je hebt hier het volgende voor nodig:
@@ -177,7 +184,7 @@ Je hebt hier het volgende voor nodig:
 
 <br>
 
-**Hulpbronnen opdracht 3**
+**Hulpbronnen Opdracht 4**
 
 - [Instructie CMGT-dag over structuur aanbrengen](https://www.youtube.com/watch?v=h042V7L6NXM&t=160s) (*de video start
    op 02:40, bekijk tot 08:00, de rest is niet van toepassing voor deze opdracht*)
@@ -186,13 +193,13 @@ Je hebt hier het volgende voor nodig:
 
 <br><hr><br>
 
-## Opdracht 4 - CSS
+## Opdracht 5 - CSS
 
 Bouw het volgende ontwerp na *(klik op de afbeelding om te vergroten)*.
 <br>
 De HTML van de pagina staat nu volledig, dus het wordt tijd om hier styling aan te geven met CSS. In de tabel hieronder zie je wat je nodig hebt in de CSS voor deze opdracht.
 
-<img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="1012">
+<img src="./images/Opdracht5.png" alt="Opdracht 5" title="Opdracht 5" width="1012">
 
 <br>
 
@@ -210,7 +217,7 @@ Je hebt hier het volgende voor nodig:
 
 <br>
 
-**Hulpbronnen opdracht 4**
+**Hulpbronnen Opdracht 5**
 
 - [Cheatsheet HTML & CSS](./cheatsheet/Cheatsheet-HTML-CSS.pdf)
 - [Introductievideo CSS](https://www.youtube.com/watch?v=7KrEybPFC48) (*bekijk tot 11:00, het
@@ -219,7 +226,7 @@ Je hebt hier het volgende voor nodig:
 
 <br><hr><br>
 
-## Opdracht 5 - Images
+## Opdracht 6 - Images
 
 Voeg één of meerdere afbeeldingen toe aan jouw pagina. Je mag zelf bepalen welke afbeeldingen je voor deze oefening gebruikt en waar je ze op de pagina toevoegt. Dit werkt iets anders dan je gewend bent in Codepen. Je zult de afbeelding namelijk eerst moeten opslaan in de projectmap, om die vervolgens in te laden in de HTML. Doorloop de volgende stappen:
 
