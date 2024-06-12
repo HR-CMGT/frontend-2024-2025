@@ -17,6 +17,7 @@
   - [Absolute units](#absolute-units)
   - [Relatieve units](#relatieve-units)
   - [Meestgebruikte units](#meestgebruikte-units)
+  - [Voorbeelden](#voorbeelden)
 - [Opdracht: Top 3](#opdracht-top-3)
   - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
   - [Opdracht 2 - CSS: teksten en kleuren](#opdracht-2---css-teksten-en-kleuren)
@@ -156,23 +157,23 @@ Je kan dus op de pixel nauwkeurig een element instellen, maar de kans is groot d
 
 ## Relatieve units
 
-Relatieve units geven een grootte aan die afhankelijk is van een andere grootte, zoals de grootte van het parent-element of het scherm (dit noemen we de `viewport`). Ze maken het mogelijk om flexibele en responsieve ontwerpen te creëren. De voor- en nadelen hiervan zijn:
+Relatieve units geven een grootte aan die afhankelijk is van een andere grootte, zoals de grootte van het parent-element of van het scherm van de browser (dit noemen we de `viewport`). Ze maken het mogelijk om flexibele en responsieve ontwerpen te creëren. De voor- en nadelen hiervan zijn:
 
 - **Voordeel**: Flexibel en responsief, geschikt voor verschillende schermformaten. Ze passen zich aan de context aan.
-- **Nadeel**: Geen.
+- **Nadeel**: Het is minder geschikt voor gedetailleerde afmetingen, zoals die van icons.
 
 ## Meestgebruikte units
 
 Hieronder vind je de tabel met de meest gebruikte units.
 
-| Naam unit | Type     | Omschrijving                                                                                                                                                     |
-| --------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `px`      | Absoluut | Hiermee bepaal je exact hoeveel pixels op je scherm er gebruikt moeten worden.<br> ⚠️ *Gebruik alleen `px` wanneer geen van onderstaande volstaat.*               |
-| `%`       | Relatief | Hiermee wordt de waarde bepaald op basis van de breedte of hoogte van de `parent`.                                                                               |
-| `vw`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `breedte` van de viewport (het zichtbare deel van de browser).                                                   |
-| `vh`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `hoogte` van de viewport (het zichtbare deel van de browser).                                                    |
-| `rem`     | Relatief | Hiermee wordt de waarde bepaald op basis van de `root font-size`, oftewel de font-size die op de `<html>` staat ingesteld.                                       |
-| `em`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `font-size` van het parent-element.<br> ⚠️ *Gebruik liever `rem` dan `em` omdat die makkelijker te gebruiken is.* |
+| Naam unit | Type     | Omschrijving                                                                                                                                                      |
+| --------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `px`      | Absoluut | Hiermee bepaal je exact hoeveel pixels op je scherm er gebruikt moeten worden.<br> ⚠️ *Gebruik alleen `px` wanneer geen van onderstaande volstaat.*                |
+| `%`       | Relatief | Hiermee wordt de waarde bepaald op basis van de breedte of hoogte van de `parent`.                                                                                |
+| `vw`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `breedte` van de viewport (het zichtbare deel van de browser).                                                    |
+| `vh`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `hoogte` van de viewport (het zichtbare deel van de browser).                                                     |
+| `rem`     | Relatief | Hiermee wordt de waarde bepaald op basis van de `root font-size`, oftewel de font-size die op de `<html>` staat ingesteld. Gebruik voor `font-size` altijd `rem`. |
+| `em`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `font-size` van het parent-element.<br> ⚠️ *Gebruik liever `rem` dan `em` omdat die makkelijker te gebruiken is.*  |
 
 De vraag die je jezelf iedere keer weer moet stellen is:
 
@@ -183,6 +184,41 @@ De vraag die je jezelf iedere keer weer moet stellen is:
 
 Door deze vragen te beantwoorden, kun je de juiste CSS units kiezen en ervoor zorgen dat je ontwerp zowel flexibel als consistent is op verschillende apparaten en schermformaten.
 Experimenteer met verschillende units om te begrijpen hoe ze zich gedragen in verschillende situaties en kies de meest geschikte unit voor elke specifieke toepassing.
+
+## Voorbeelden
+
+Laten we eens kijken naar een voorbeeld van een aantal units: px, % en vw. Hieronder zie je een screenshot van een webpagina. Hierop staat een `section` met een rode border met daarin drie `div`s. Dit geeft de volgende HTML:
+
+```html
+ <section>
+    <div class="pixels">50px</div>
+    <div class="percentage">50%</div>
+    <div class="viewport-width">50vw</div>
+  </section>
+```
+
+<br>
+In de CSS staat het volgende ingesteld:
+
+- De section heeft een `width` van `100%`;
+- De eerste `div` heeft een `width` van `50px` en neemt dus 50 pixels van het scherm in beslag;
+- De tweede `div` heeft een `width` van `50%` en is dus de helft van de breedte van zijn parent (dus de `section`);
+- De derde `div` heeft een `width` van `50vw` en is dus de helft van de viewport (dus de breedte van de browser).
+
+<br>
+<img src="./images/units1.jpg" alt="Units" title="Units" width="1012">
+
+<br>
+
+Wat zou er gebeuren wanneer de `section` smaller zou worden? Het enige wat in het screenshot hieronder is aangepast is de `width` van de `section`, namelijk naar 33%. Het volgende valt op:
+
+- De eerste div blijft nog steeds exact 50 pixels breed;
+- De tweede div is smaller geworden, doordat zijn parent (de `section`) smaller is geworden. Hij is echter nog steeds precies de helft van zijn parent;
+- De derde div is ***niet*** smaller geworden, maar is even breed gebleven. Dit komt omdat de viewport (dus de browser) nog steeds dezelfde breedte heeft.
+
+<br>
+
+<img src="./images/units2.jpg" alt="Units" title="Units" width="1012">
 
 <br><hr><br>
 
