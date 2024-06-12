@@ -10,9 +10,9 @@
     - [Waarom semantische tags?](#waarom-semantische-tags)
     - [Semantische tags voor structuur](#semantische-tags-voor-structuur)
     - [Valkuil van semantische tags](#valkuil-van-semantische-tags)
-  - [Werken met de inspector](#werken-met-de-inspector)
 - [Quiz over semantische HTML-tags](#quiz-over-semantische-html-tags)
-- [Oefenen met de inspector](#oefenen-met-de-inspector)
+- [Werken met de inspector](#werken-met-de-inspector)
+  - [Opdrachten inspector](#opdrachten-inspector)
 - [Minipuzzels - Padding \& margin](#minipuzzels---padding--margin)
 - [Opdracht: Top 3](#opdracht-top-3)
   - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
@@ -85,9 +85,21 @@ alleen voor de inhoudelijke waarde die het heeft.
 | `<strong>` | Nadruk leggen op een gedeelte van de tekst, omdat deze belangrijk of urgent is.                                                                                                                                                           | `<p>`Voordat hij naar binnen ging, las hij de waarschuwing bij de ingang: `<strong>`Let op! Vuurspuwende draak verderop.`</strong></p>` | Voordat hij naar binnen ging, las hij de waarschuwing bij de ingang: **Let op! Vuurspuwende draak verderop.** |
 | `<em>`     | Wanneer je op een gedeelte van de tekst verbaal de nadruk wilt leggen, vaak één woord. Deze is ook gebruikt in de waarschuwing die boven deze tabel is gegeven over dat je een tag *nooit* mag gebruiken vanwege het standaard uiterlijk. | `<p>`Dit zal `<em>` heel`</em>` erg gevaarlijk worden.`</p>`                                                                            | Dit zal *heel* erg gevaarlijk worden.                                                                         |
 
+
+
+<br>
+
 <br><hr><br>
 
-## Werken met de inspector
+# Quiz over semantische HTML-tags
+
+[Klik hier om de quiz over semantische HTML-tags te doen](https://brightspace.hr.nl/d2l/le/lessons/28886/topics/192858)
+
+<br><hr><br>
+
+# Werken met de inspector
+
+Hieronder volgt eerst een uitleg in het gebruik van de inspector. Doorloop dit en voer vervolgens de opdrachten uit.
 
 - Open de inspector op een specifiek HTML-element door met de rechter muistoets op dat element te klikken en vervolgens
   op **Inspecteren** te klikken;
@@ -102,20 +114,9 @@ alleen voor de inhoudelijke waarde die het heeft.
 
 <br>
 
-<br><hr><br>
+## Opdrachten inspector
 
-# Quiz over semantische HTML-tags
-
-[Klik hier om de quiz over semantische HTML-tags te doen](https://brightspace.hr.nl/d2l/le/lessons/28886/topics/192858)
-
-<br><hr><br>
-
-# Oefenen met de inspector
-
-In het hoofdstuk [Werken met de inspector](#werken-met-de-inspector) heb je geleerd hoe je de inspector opent en
-gebruikt. Nu wordt het tijd om deze te gaan gebruiken! Ga naar een website die jij vaak
-bezoekt. Deze kan over jouw hobby gaan, maar het kan ook die van een supermarkt zijn, dat maakt niet uit. Open de
-inspector en voer de volgende opdrachten daarin uit:
+Nu je hebt geleerd hoe je de inspector opent en gebruikt wordt het tijd om deze te gaan gebruiken! Ga naar een website die jij vaak bezoekt. Deze kan over jouw hobby gaan, maar het kan ook die van een supermarkt zijn, dat maakt niet uit. Open de inspector en voer de volgende opdrachten daarin uit:
 
 1. Pas van minimaal 3 teksten de kleur aan;
 2. Pas van minimaal 3 teksten het lettertype aan;

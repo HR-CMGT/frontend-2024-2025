@@ -215,6 +215,7 @@ Je hebt hier het volgende voor nodig:
 - [Cheatsheet HTML & CSS](./cheatsheet/Cheatsheet-HTML-CSS.pdf)
 - [Introductievideo CSS](https://www.youtube.com/watch?v=7KrEybPFC48) (*bekijk tot 11:00, het
    deel erna is niet van toepassing voor dit vak*)
+- [Video met uitleg over padding & margin](https://www.youtube.com/watch?v=EhbZGV2dqZ4)
 
 <br><hr><br>
 

@@ -237,6 +237,6 @@ Voor deze opdracht heb je de volgende kleurcodes nodig:
 <br>
 
 ## Advanced opdracht
-Als je wat extra uitdaging wilt, dan kan je ook onderstaande wireframe nabouwen. Hierin zitten extra elementen die je m.b.v. zelfstudie moet zien te achterhalen. Voor de advanced opdracht is geen startcode. De afbeeldingen zijn te vinden in `les3/resources-advanced`
+Als je wat extra uitdaging wilt, dan kan je ook onderstaande wireframe nabouwen. Hierin zitten extra elementen die je door zelfstudie moet zien te achterhalen. Voor de advanced opdracht is geen startcode. De afbeeldingen zijn te vinden in `les3/resources-advanced`
 
 <img src="./images/Opdracht1-advanced.png" alt="Opdracht 1 - Advanced" title="Opdracht 1 - Advanced" width="1012">
