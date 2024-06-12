@@ -1,16 +1,15 @@
 # Les 7
 
 - [Les 7](#les-7)
-- [Inhoud](#inhoud)
-  - [What CSS can do](#what-css-can-do)
-  - [Transition](#transition)
-  - [Filter, transform en 3D-effect](#filter-transform-en-3d-effect)
-    - [Filter](#filter)
-    - [Transform](#transform)
-    - [3D-effect](#3d-effect)
-  - [Animation](#animation)
-  - [Position fixed](#position-fixed)
-    - [Sticky](#sticky)
+- [What CSS can do](#what-css-can-do)
+- [Transition](#transition)
+- [Filter, transform en 3D-effect](#filter-transform-en-3d-effect)
+  - [Filter](#filter)
+  - [Transform](#transform)
+  - [3D-effect](#3d-effect)
+- [Animation](#animation)
+- [Position fixed](#position-fixed)
+  - [Sticky](#sticky)
 - [Klassikale opdracht](#klassikale-opdracht)
     - [Transition op nav bar](#transition-op-nav-bar)
     - [Fixed nav bar](#fixed-nav-bar)
@@ -25,9 +24,8 @@
 
 <br><br><br>
 
-# Inhoud
 
-## What CSS can do
+# What CSS can do
 
 Je kan ontzettend veel toffe animaties maken met CSS. Zie hieronder wat inspiratie.
 
@@ -38,7 +36,7 @@ Je kan ontzettend veel toffe animaties maken met CSS. Zie hieronder wat inspirat
 
 <br><br><br>
 
-## Transition
+# Transition
 
 Met een *transition* kan je bepalen hoe snel de CSS van een element verandert. Dit past goed bij `hover` effecten, en werkt voor bijna alle eigenschappen, zoals:
   - kleur,
@@ -73,13 +71,13 @@ In dit voorbeeld komt een kaartje in 1 seconde los van de ondergrond on mouse ho
 
 <br><br><br>
 
-## Filter, transform en 3D-effect
+# Filter, transform en 3D-effect
 
 Je kunt met CSS meerdere effecten toepassen op HTML-elementen. Hieronder staan er drie toegelicht.
 
 <br>
 
-### Filter
+## Filter
 
 Er zijn verschillende filters beschikbaar die je op je elementen kan loslaten. Deze filters werken goed samen met transitions en animations. 
 
@@ -98,7 +96,7 @@ div {
 
 <br>
 
-### Transform
+## Transform
 
 Met transform kan je een element schalen, roteren of verplaatsen, zonder dat je layout verstoord wordt. Dit werkt vaak goed samen met `hover` effecten en animaties. Als je meerdere transforms wil combineren moet je die samen op 1 regel plaatsen. Met `translate` verplaats je het element op de x,y as. Met `transform-origin` bepaal je het middelpunt van de transform.
 
@@ -120,7 +118,7 @@ div {
   
 <br>
 
-### 3D-effect
+## 3D-effect
 
 Je kan elementen roteren op een 3D as, met `rotateX`, `rotateY`, `rotateZ`. Je moet de parent container een `perspective` waarde geven, dit is de afstand van het element tot de gebruiker.
 
@@ -142,7 +140,7 @@ Je kan elementen roteren op een 3D as, met `rotateX`, `rotateY`, `rotateZ`. Je m
 
 <br><br><br>
 
-## Animation
+# Animation
 
 Een *animation* bepaalt net als een *transition* hoe de CSS van een element verandert. Je hebt alleen veel meer controle over wat er met het element gebeurt. Een animatie kan je laten afspelen tussen twee of meer keyframes. De animatie kan automatisch afspelen, en je kan meerdere complexe animaties na elkaar laten afspelen. Om te beginnen bepaal je met CSS `@keyframes` welke eigenschappen gaan animeren. 
 
@@ -177,7 +175,7 @@ div {
 
 <br><br><br>
 
-## Position fixed
+# Position fixed
 
 We hebben geleerd dat layout elementen automatisch door de browser worden gepositioneerd, dit noemen we "document flow" of ["normal flow"](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow). Er zijn gevallen waarin je zelf de positie van een element wil hardcoderen, waarbij het geen deel uitmaakt van die flow. *Bijvoorbeeld: een chat venster dat altijd rechtsonderin je pagina blijft staan*. Met de eigenschap `position:fixed` wordt een element uit de flow gehaald. Je kan het nu zelf positioneren met `bottom, top, left, right`. Het element blijft op die plek staan zelfs als het venster scrolt. 
 
@@ -188,7 +186,7 @@ We hebben geleerd dat layout elementen automatisch door de browser worden geposi
     right:20px;
 }
 ```
-### Sticky
+## Sticky
 
 Een sticky element krijgt een `fixed` position zodra de gebruiker een bepaald punt voorbij scrolt. Dit werkt goed voor `nav` elementen. 
 

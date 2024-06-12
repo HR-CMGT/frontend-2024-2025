@@ -6,22 +6,21 @@
 
 **Inhoudsopgave**
 - [Les 5](#les-5)
-- [Inhoud](#inhoud)
-  - [Responsive design](#responsive-design)
-    - [Meta viewport](#meta-viewport)
-    - [Absolute en relatieve units](#absolute-en-relatieve-units)
-    - [Box sizing](#box-sizing)
-    - [Calc](#calc)
-    - [Media queries](#media-queries)
-    - [Flex columns](#flex-columns)
-  - [Afbeeldingen](#afbeeldingen)
-    - [Formaten](#formaten)
-    - [Schalen](#schalen)
-    - [Object fit](#object-fit)
-    - [Achtergrondafbeeldingen](#achtergrondafbeeldingen)
-  - [Expert: Afbeeldingen aanpassen voor device](#expert-afbeeldingen-aanpassen-voor-device)
-    - [Verschillende DPI waarden](#verschillende-dpi-waarden)
-    - [Werken met picture](#werken-met-picture)
+- [Responsive design](#responsive-design)
+  - [Meta viewport](#meta-viewport)
+  - [Absolute en relatieve units](#absolute-en-relatieve-units)
+  - [Box sizing](#box-sizing)
+  - [Calc](#calc)
+  - [Media queries](#media-queries)
+  - [Flex columns](#flex-columns)
+- [Afbeeldingen](#afbeeldingen)
+  - [Formaten](#formaten)
+  - [Schalen](#schalen)
+  - [Object fit](#object-fit)
+  - [Achtergrondafbeeldingen](#achtergrondafbeeldingen)
+- [Expert: Afbeeldingen aanpassen voor device](#expert-afbeeldingen-aanpassen-voor-device)
+  - [Verschillende DPI waarden](#verschillende-dpi-waarden)
+  - [Werken met picture](#werken-met-picture)
   - [Links](#links)
 - [Opdracht: Foodblog responsive](#opdracht-foodblog-responsive)
   - [Eindresultaat mobile](#eindresultaat-mobile)
@@ -29,9 +28,7 @@
 
 <br><br><br>
 
-# Inhoud
-
-## Responsive design
+# Responsive design
 
 - meta-viewport
 - Werken met absolute en relatieve units
@@ -40,7 +37,7 @@
 
 <br>
 
-### Meta viewport
+## Meta viewport
 
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -48,7 +45,7 @@
 
 <br>
 
-### Absolute en relatieve units
+## Absolute en relatieve units
 
 | Eenheid | Voorbeeld          | Toepassing                                                           |
 | ------- | ------------------ | -------------------------------------------------------------------- |
@@ -61,7 +58,7 @@
 
 <br>
 
-### Box sizing
+## Box sizing
 
 Bij het bepalen van de afmetingen van je elementen kan het verwarrend zijn dat de `margin` en `padding` niet automatisch worden meegenomen in de berekening. Dit kan je corrigeren met:
 
@@ -73,7 +70,7 @@ Bij het bepalen van de afmetingen van je elementen kan het verwarrend zijn dat d
 
 <br>
 
-### Calc
+## Calc
 
 Met `calc` kan je een relatieve unit combineren met een absolute unit. Deze header krijgt als hoogte de helft van het scherm, min 20 pixels.
 
@@ -85,7 +82,7 @@ header {
 
 <br>
 
-### Media queries
+## Media queries
 
 Schermafmetingen
 
@@ -108,7 +105,7 @@ Andere eigenschappen
 
 <br>
 
-### Flex columns
+## Flex columns
 
 ```css
 .nav {
@@ -127,9 +124,9 @@ Andere eigenschappen
 
 <br><br><br>
 
-## Afbeeldingen
+# Afbeeldingen
 
-### Formaten
+## Formaten
 
 - Afbeelding formaten zijn: `webp`, `png`, `jpg`, `gif`, `svg`.
 - `.png` en `.webp` zijn *lossless* waardoor de kwaliteit hoog blijft. Ook kan je *transparatie* toevoegen.
@@ -138,7 +135,7 @@ Andere eigenschappen
 - `.svg` is een vector formaat, dus schaalbaar zonder kwaliteitsverlies. Dit is handig voor logo's en iconen.
 - Gebruik `lazy loading` om niet alle afbeeldingen tegelijk in te laden.
 
-### Schalen
+## Schalen
 
 - Afbeeldingen in je images folder hebben vaak niet dezelfde verhouding. 
 - Door in je css alleen de hoogte of breedte aan te passen blijft de verhouding correct, maar je document kan er rommelig uit gaan zien.
@@ -151,7 +148,7 @@ Andere eigenschappen
 
 <br>
 
-### Object fit
+## Object fit
 
 Object fit gebruik je om een afbeelding altijd binnen zijn container te laten passen, zonder dat de verhouding vertekend raakt. `object-fit:cover` betekent dat er randen van de zijkant weg mogen vallen om de afbeelding passend te maken. `object-fit:contain` betekent dat er witruimte toegevoegd mag worden om de afbeelding passend te maken.
 
@@ -185,7 +182,7 @@ img {
 ```
 <br>
 
-### Achtergrondafbeeldingen
+## Achtergrondafbeeldingen
 
 Het voordeel van een achtergrondafbeelding is dat je er nog content overheen kan zetten. Dit leent zich goed voor HERO / Header elementen. Let op dat een leeg element van zichzelf geen hoogte / breedte heeft, dus dit moet je via CSS instellen.
 
@@ -206,9 +203,9 @@ header {
 ```
 <br>
 
-## Expert: Afbeeldingen aanpassen voor device
+# Expert: Afbeeldingen aanpassen voor device
 
-### Verschillende DPI waarden
+## Verschillende DPI waarden
 
 Met `srcset` kan je voor hogere DPI schemen een scherpere / grotere afbeelding inladen. `2x` betekent een retina scherm. 
 
@@ -217,7 +214,7 @@ Met `srcset` kan je voor hogere DPI schemen een scherpere / grotere afbeelding i
 ```
 <br>
 
-### Werken met picture
+## Werken met picture
 
 Met het picture element kan je kiezen om voor verschillende schermen (landscape, portrait) een hele andere afbeelding te laden. In dit voorbeeld zien we een portret op kleine schermen en een overview op grote schermen.
 

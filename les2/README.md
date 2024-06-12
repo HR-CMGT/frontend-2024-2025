@@ -5,11 +5,10 @@
 **Inhoudsopgave**
 
 - [Les 2](#les-2)
-- [Inhoud](#inhoud)
-  - [Semantische tags](#semantische-tags)
-    - [Waarom semantische tags?](#waarom-semantische-tags)
-    - [Semantische tags voor structuur](#semantische-tags-voor-structuur)
-    - [Valkuil van semantische tags](#valkuil-van-semantische-tags)
+- [Semantische tags](#semantische-tags)
+  - [Waarom semantische tags?](#waarom-semantische-tags)
+  - [Semantische tags voor structuur](#semantische-tags-voor-structuur)
+  - [Valkuil van semantische tags](#valkuil-van-semantische-tags)
 - [Quiz over semantische HTML-tags](#quiz-over-semantische-html-tags)
 - [Werken met de inspector](#werken-met-de-inspector)
   - [Opdrachten inspector](#opdrachten-inspector)
@@ -22,9 +21,9 @@
 
 <br><hr><br>
 
-# Inhoud
 
-## Semantische tags
+
+# Semantische tags
 
 Er zijn in totaal meer dan 100 HTML-tags en slechts twee ervan zijn **niet** semantisch: `<div>` en `<span>`. Ze zeggen
 namelijk niets over de soort inhoud die erin staat. Je mag ze dan ook alleen gebruiken wanneer je het puur nodig hebt
@@ -32,7 +31,7 @@ voor de styling van je pagina en er geen semantisch alternatief is.
 
 <br>
 
-### Waarom semantische tags?
+## Waarom semantische tags?
 
 Er zijn drie belangrijke redenen waarom je gebruik moet maken van semantische tags:
 
@@ -44,7 +43,7 @@ Er zijn drie belangrijke redenen waarom je gebruik moet maken van semantische ta
 
 <br>
 
-### Semantische tags voor structuur
+## Semantische tags voor structuur
 
 Hieronder volgt een lijstje met semantische tags die je gebruikt om structuur aan de pagina te geven. Dit zijn niet alle
 tags, maar wel de veel voorkomende.
@@ -64,7 +63,7 @@ tags, maar wel de veel voorkomende.
 
 <br>
 
-### Valkuil van semantische tags
+## Valkuil van semantische tags
 
 De grote valkuil van het gebruiken van semantische tags, is dat je ze gebruikt voor het uiterlijk dat ze standaard
 hebben. Zo is een `<h1>` bijvoorbeeld standaard groter dan een `<h6>`, dus de valkuil is om de heading te gebruiken die

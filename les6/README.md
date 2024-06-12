@@ -2,8 +2,7 @@
 
 **Inhoudsopgave**
 - [Les 6](#les-6)
-- [Inhoud](#inhoud)
-  - [Formulieren](#formulieren)
+- [Formulieren](#formulieren)
   - [Type invoervelden](#type-invoervelden)
     - [Voorbeelden van input](#voorbeelden-van-input)
     - [Voorbeeld van select](#voorbeeld-van-select)
@@ -30,11 +29,8 @@
 
 <br><br><br>
 
-# Inhoud
 
-<br>
-
-## Formulieren
+# Formulieren
 Het is met HTML mogelijk om een formulier te maken die de gebruiker kan invoeren. Met CSS is dit formulier vervolgens volledig naar wens te vormgeven. In deze les zal je leren hoe je zo'n formulier maakt, welke opties er zijn en hoe je deze vormgeeft.
 
 Hieronder vind je een voorbeeld van een standaard formulier:

@@ -1,16 +1,15 @@
 # Les 3
 
 - [Les 3](#les-3)
-- [Inhoud](#inhoud)
-  - [Flexbox](#flexbox)
-    - [Parent/child](#parentchild)
-    - [Flexbox in een Flexbox](#flexbox-in-een-flexbox)
-    - [Meest gebruikte Flexbox-opties](#meest-gebruikte-flexbox-opties)
-    - [Flexbox-inspector 🔍](#flexbox-inspector-)
-    - [Hulpbronnen voor Flexbox](#hulpbronnen-voor-flexbox)
-  - [Navigatie](#navigatie)
-    - [HTML voor de navigatie](#html-voor-de-navigatie)
-    - [CSS voor de navigatie](#css-voor-de-navigatie)
+- [Flexbox](#flexbox)
+  - [Parent/child](#parentchild)
+  - [Flexbox in een Flexbox](#flexbox-in-een-flexbox)
+  - [Meest gebruikte Flexbox-opties](#meest-gebruikte-flexbox-opties)
+  - [Flexbox-inspector 🔍](#flexbox-inspector-)
+  - [Hulpbronnen voor Flexbox](#hulpbronnen-voor-flexbox)
+- [Navigatie](#navigatie)
+  - [HTML voor de navigatie](#html-voor-de-navigatie)
+  - [CSS voor de navigatie](#css-voor-de-navigatie)
 - [Minipuzzels - Flexbox](#minipuzzels---flexbox)
 - [Minipuzzels - Navigatie](#minipuzzels---navigatie)
 - [Opdracht: Foodblog](#opdracht-foodblog)
@@ -18,9 +17,7 @@
 
 <br><hr><br>
 
-# Inhoud
-
-## Flexbox
+# Flexbox
 
 In de afgelopen lessen heb je elementen alleen nog maar *onder elkaar* gezet. Wil je de mogelijkheid om elementen ook
 *naast elkaar* te zetten? Dan kan je Flexbox gebruiken. Naast de mogelijkheid om elementen naast elkaar te zetten, krijg
@@ -46,7 +43,7 @@ Het is met Flexbox trouwens ook mogelijk om elementen weer onder elkaar te zette
 
 <br>
 
-### Parent/child
+## Parent/child
 
 Zoals gezegd kan je met een paar regels code al veel voor elkaar krijgen met Flexbox, maar je moet wel eerst weten hoe
 het werkt. Het begint met een HTML-tag instellen als Flexbox. Al zijn directe *children* kunnen vervolgens naar wens
@@ -59,7 +56,7 @@ afbeelding zie je deze parent/child relatie ook nog eens met kleuren uitgebeeld.
 
 <img src="./images/flex-parent-children.jpg" alt="Flex parent children" title="Flex parent children" width="1012">
 
-### Flexbox in een Flexbox
+## Flexbox in een Flexbox
 
 Let erop dat in bovenstaand voorbeeld alleen de `<main>` een Flexbox is en dus alleen de drie keer `<section>` kunnen
 worden vormgegeven met Flexbox. Dus stel, in de tweede `<section>` staat ook inhoud die je met Flexbox wil vormgeven,
@@ -69,7 +66,7 @@ layout te bepalen.
 
 <br>
 
-### Meest gebruikte Flexbox-opties
+## Meest gebruikte Flexbox-opties
 
 De Flexbox-opties zijn in te delen in twee categorieën: *parent-opties* en *child-opties*. Zoals de naam al
 verraad
@@ -106,7 +103,7 @@ Voor het volledige overzicht, [zie deze documentatie](https://css-tricks.com/sni
 
 <br>
 
-### Flexbox-inspector 🔍
+## Flexbox-inspector 🔍
 
 Om erachter te komen wat er allemaal mogelijk is met Flexbox gebruik je de `inspector`. Hierin kun je namelijk met
 simpelweg drukken op knopjes veel parent-opties uitproberen. Inspecteer een HTML-tag die staat ingesteld als Flexbox en
@@ -122,7 +119,7 @@ video: https://developer.chrome.com/docs/devtools/css/flexbox/
 
 <br>
 
-### Hulpbronnen voor Flexbox
+## Hulpbronnen voor Flexbox
 
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexbox cheatsheet](./images/css-flexbox-poster.png)<br><img src="./images/css-flexbox-poster.png" alt="Flexbox cheatsheet" title="Flexbox cheatsheet" width="300">
@@ -130,13 +127,13 @@ video: https://developer.chrome.com/docs/devtools/css/flexbox/
 
 <br><hr><br>
 
-## Navigatie
+# Navigatie
 
 In de vorige lessen heb je al vaker met `<nav>` gewerkt en in deze les duiken we daar dieper op in. Je weet al dat je in de `<nav>` een `<a>` invoert voer ieder linkje die je wilt tonen. Maar hoe stel je dit linkje correct in? En hoe kan je deze vormgeven? Dat leer je in deze les.
 
 <br>
 
-### HTML voor de navigatie
+## HTML voor de navigatie
 
 Allereerst: wat is een `<a>` eigenlijk? Het doel van deze HTML-tag is dat de gebruiker erop kan klikken en dat die naar een ander stukje content wordt gebracht. Dus stel, je bent op webshop en je wilt alle producten bekijken, dan klik je in het hoofdmenu (wat dus een `<nav>` is) op het linkje *Producten*, zodat je naar die betreffende pagina wordt gebracht.
 
@@ -185,7 +182,7 @@ Tot slot, wanneer je een link wilt leggen naar een andere website, dan moet je d
 
 <br>
 
-### CSS voor de navigatie
+## CSS voor de navigatie
 
 Het vormgeven van de `<nav>` werkt zoals met iedere andere HTML-tag, maar de `<a>` heeft enkele uitzonderingen die hier worden uitgelegd. Het is namelijk belangrijk om te weten dat een `<a>` verschillende *states* heeft. Dit betekent dat je afhankelijk van de situatie de `<a>` een andere styling kan geven. Het gaat om de volgende states:
 
