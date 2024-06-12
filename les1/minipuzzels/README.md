@@ -1,9 +1,9 @@
-# Les 2 - Minipuzzels - Padding & margin
+# Les 1 - Minipuzzels - Padding & margin
 
 <br>
 
 **Inhoudsopgave**
-- [Les 2 - Minipuzzels - Padding \& margin](#les-2---minipuzzels---padding--margin)
+- [Les 1 - Minipuzzels - Padding \& margin](#les-1---minipuzzels---padding--margin)
   - [Inleiding](#inleiding)
     - [Hulpbronnen](#hulpbronnen)
   - [Mini-oefening 1](#mini-oefening-1)
