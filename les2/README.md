@@ -132,7 +132,19 @@ Nu je hebt geleerd hoe je de inspector opent en gebruikt wordt het tijd om deze 
 
 # CSS selectors
 
-...
+Met CSS kun je de HTML vormgeven, zoals je vorige les ook al hebt gedaan. Om dit te kunnen doen moet je echter wel eerst aangeven op welke HTML-elementen die vormgeving van toepassing is. Je moet de elementen zogezegd `selecteren`.
+
+Er zijn veel verschillende manieren om HTML-elementen te selecteren en hieronder vind je de meestgebruikte `CSS selectors`.
+
+| Naam                  | Omschrijving                                                                                                                       | Voorbeeld 1            | Voorbeeld 2                 |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------------|
+| Element selector      | Selecteer op HTML-tag                                                                                                              | h1                     | p                           |
+| Class selector        | Selecteer op class                                                                                                                 | .button                | .left-column                |
+| ID selector           | Selecteer op ID                                                                                                                    | #my-hobbies            | #about-me                   |
+| Descendant selector   | Selecteer alles binnen een parent (in voorbeeld 1 iedere `p` in iedere `section`)                                                  | section p              | main .button                |
+| Compound selector     | Selecteer elementen die aan meerdere voorwaarden voldoet (in voorbeeld 1 iedere `p` die óók de class `highlight` heeft.            | p.highlight            | .button.success             |
+| Pseudo-class selector | Selecteer op pseudo-class die automatisch door de browser wordt gegeven, bijvoorbeeld wanneer je met je muis ergens overheen gaat. | .button:hover          |                             |
+| Selector list         | Wanneer meerdere selectors dezelfde vormgeving moeten hebben, dan kan je deze scheiden met een komma.                              | h1, h2, h3, h4, h5, h6 | .column-left, .column-right |
 
 <br><hr><br>
 
