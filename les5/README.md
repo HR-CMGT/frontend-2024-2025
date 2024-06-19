@@ -47,14 +47,18 @@
 
 ## Absolute en relatieve units
 
-| Eenheid | Voorbeeld          | Toepassing                                                           |
-| ------- | ------------------ | -------------------------------------------------------------------- |
-| px      | `width: 100px;`    | Een absolute pixel afmeting                                          |
-| vw      | `width: 40vw;`     | 40vw betekent 40% van de viewport width                              |
-| vh      | `height: 30vh;`    | vh betekent % van de viewport height                                 |
-| %       | `width: 20%;`      | De breedte is 20% van de parent container                            |
-| rem     | `font-size: 2rem;` | De font size is 2 maal de font-size die op de `html` staat ingesteld |
-| %       | `font-size: 120%;` | De font size is 120% van de parent font-size                         |
+Hieronder vind je de tabel met de meestgebruikte units.
+
+| Naam unit | Type     | Omschrijving                                                                                                                                                      | Voorbeeld            |
+|-----------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
+| `px`      | Absoluut | Hiermee bepaal je exact hoeveel pixels op je scherm er gebruikt moeten worden.<br> ⚠️ *Gebruik alleen `px` wanneer geen van onderstaande volstaat.*               | `width: 200px;`      |
+| `%`       | Relatief | Hiermee wordt de waarde bepaald op basis van de breedte of hoogte van de `parent`.                                                                                | `width: 100%;`       |
+| `vw`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `breedte` van de viewport (het zichtbare deel van de browser).                                                    | `width: 50vw;`       |
+| `vh`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `hoogte` van de viewport (het zichtbare deel van de browser).                                                     | `height: 100vh;`     |
+| `rem`     | Relatief | Hiermee wordt de waarde bepaald op basis van de `root font-size`, oftewel de font-size die op de `<html>` staat ingesteld. Gebruik voor `font-size` altijd `rem`. | `font-size: 1.5rem;` |
+| `em`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `font-size` van het parent-element.<br> ⚠️ *Gebruik liever `rem` dan `em` omdat die makkelijker te gebruiken is.* | `font-size: 2em;`    |
+
+
 
 <br>
 

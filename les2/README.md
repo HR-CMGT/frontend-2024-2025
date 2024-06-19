@@ -136,15 +136,23 @@ Met CSS kun je de HTML vormgeven, zoals je vorige les ook al hebt gedaan. Om dit
 
 Er zijn veel verschillende manieren om HTML-elementen te selecteren en hieronder vind je de meestgebruikte `CSS selectors`.
 
-| Naam                  | Omschrijving                                                                                                                       | Voorbeeld 1            | Voorbeeld 2                 |
-|-----------------------|------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------------|
-| Element selector      | Selecteer op HTML-tag                                                                                                              | h1                     | p                           |
-| Class selector        | Selecteer op class                                                                                                                 | .button                | .left-column                |
-| ID selector           | Selecteer op ID                                                                                                                    | #my-hobbies            | #about-me                   |
-| Descendant selector   | Selecteer alles binnen een parent (in voorbeeld 1 iedere `p` in iedere `section`)                                                  | section p              | main .button                |
-| Compound selector     | Selecteer elementen die aan meerdere voorwaarden voldoet (in voorbeeld 1 iedere `p` die óók de class `highlight` heeft.            | p.highlight            | .button.success             |
-| Pseudo-class selector | Selecteer op pseudo-class die automatisch door de browser wordt gegeven, bijvoorbeeld wanneer je met je muis ergens overheen gaat. | .button:hover          |                             |
-| Selector list         | Wanneer meerdere selectors dezelfde vormgeving moeten hebben, dan kan je deze scheiden met een komma.                              | h1, h2, h3, h4, h5, h6 | .column-left, .column-right |
+| Naam                  | Omschrijving                                                                                                                                          | Voorbeeld 1            | Voorbeeld 2                 |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------------|
+| Element selector      | Selecteer op HTML-tag                                                                                                                                 | h1                     | p                           |
+| Class selector        | Selecteer op class                                                                                                                                    | .button                | .left-column                |
+| ID selector           | Selecteer op ID                                                                                                                                       | #my-hobbies            | #about-me                   |
+| Descendant selector   | Selecteer alles binnen een parent (in voorbeeld 1 iedere `p` in iedere `section`)                                                                     | section p              | main .button                |
+| Compound selector     | Selecteer elementen die aan meerdere voorwaarden voldoet (in voorbeeld 1 iedere `p` die óók de class `highlight` heeft.                               | p.highlight            | .button.success             |
+| Pseudo-class selector | Selecteer op pseudo-class die automatisch door de browser wordt gegeven, bijvoorbeeld wanneer je met je muis ergens overheen gaat.                    | .button:hover          |                             |
+| Selector list         | Wanneer meerdere selectors dezelfde vormgeving moeten hebben, dan kan je deze scheiden met een komma.                                                 | h1, h2, h3, h4, h5, h6 | .column-left, .column-right |
+| Universal selector    | Selecteert alle elementen. Is ook te gebruiken in een `descendant selector` (in voorbeeld 2 worden `alle children` in iedere `section` geselecteerd). | *                      | section *                   |
+
+<br>
+
+**Extra hulpbronnen**
+
+- [Documentatie over selectors op W3Schools](https://www.w3schools.com/css/css_selectors.asp)
+- [Documentatie over selectors op MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors/Selectors_and_combinators)
 
 <br><hr><br>
 
@@ -177,16 +185,16 @@ Relatieve units geven een grootte aan die afhankelijk is van een andere grootte,
 
 ## Meestgebruikte units
 
-Hieronder vind je de tabel met de meest gebruikte units.
+Hieronder vind je de tabel met de meestgebruikte units.
 
-| Naam unit | Type     | Omschrijving                                                                                                                                                      |
-| --------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `px`      | Absoluut | Hiermee bepaal je exact hoeveel pixels op je scherm er gebruikt moeten worden.<br> ⚠️ *Gebruik alleen `px` wanneer geen van onderstaande volstaat.*                |
-| `%`       | Relatief | Hiermee wordt de waarde bepaald op basis van de breedte of hoogte van de `parent`.                                                                                |
-| `vw`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `breedte` van de viewport (het zichtbare deel van de browser).                                                    |
-| `vh`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `hoogte` van de viewport (het zichtbare deel van de browser).                                                     |
-| `rem`     | Relatief | Hiermee wordt de waarde bepaald op basis van de `root font-size`, oftewel de font-size die op de `<html>` staat ingesteld. Gebruik voor `font-size` altijd `rem`. |
-| `em`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `font-size` van het parent-element.<br> ⚠️ *Gebruik liever `rem` dan `em` omdat die makkelijker te gebruiken is.*  |
+| Naam unit | Type     | Omschrijving                                                                                                                                                      | Voorbeeld            |
+|-----------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
+| `px`      | Absoluut | Hiermee bepaal je exact hoeveel pixels op je scherm er gebruikt moeten worden.<br> ⚠️ *Gebruik alleen `px` wanneer geen van onderstaande volstaat.*               | `width: 200px;`      |
+| `%`       | Relatief | Hiermee wordt de waarde bepaald op basis van de breedte of hoogte van de `parent`.                                                                                | `width: 100%;`       |
+| `vw`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `breedte` van de viewport (het zichtbare deel van de browser).                                                    | `width: 50vw;`       |
+| `vh`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `hoogte` van de viewport (het zichtbare deel van de browser).                                                     | `height: 100vh;`     |
+| `rem`     | Relatief | Hiermee wordt de waarde bepaald op basis van de `root font-size`, oftewel de font-size die op de `<html>` staat ingesteld. Gebruik voor `font-size` altijd `rem`. | `font-size: 1.5rem;` |
+| `em`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `font-size` van het parent-element.<br> ⚠️ *Gebruik liever `rem` dan `em` omdat die makkelijker te gebruiken is.* | `font-size: 2em;`    |
 
 De vraag die je jezelf iedere keer weer moet stellen is:
 
