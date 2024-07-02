@@ -91,12 +91,12 @@ in en heeft alleen invloed op de children waarop je het instelt.
 
 **Flexbox-opties child**
 
-| Optie       | Omschrijving                                                                                         |                                                                                                                            |
-| ----------- | ---------------------------------------------------------------------------------------------------- |----------------------------------------------------------------------------------------------------------------------------|
-| flex-grow   | Bepaalt hoeveel deze child mag groeien t.o.v. de andere children.                                    | flex-grow: 2;                                                                                                              |
-| flex-shrink | Bepaalt hoeveel deze child mag krimpen t.o.v. de andere children.                                    | flex-grow: 1;                                                                                                              |
-| flex-basis  | Bepaalt de standaardgrootte van de child voordat de resterende ruimte wordt verdeeld.                | flex-basis: 200px;                                                                                                         |
-| flex        | Dit is de shorthand-notatie van bovenstaande drie opties. **Het wordt aangeraden om deze te gebruiken.** | flex: 1;                                                                                                                   |
+| Optie       | Omschrijving                                                                                         |                                                                          |
+| ----------- | ---------------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------|
+| flex-grow   | Bepaalt hoeveel deze child mag groeien t.o.v. de andere children.                                    | flex-grow: 2;<br><img src="./images/flex-grow.svg" width="300">          |
+| flex-shrink | Bepaalt hoeveel deze child mag krimpen t.o.v. de andere children.                                    | flex-shrink: 1;                                                          |
+| flex-basis  | Bepaalt de standaardgrootte van de child voordat de resterende ruimte wordt verdeeld.                | flex-basis: 200px;                                                       |
+| flex        | Dit is de shorthand-notatie van bovenstaande drie opties. **Het wordt aangeraden om deze te gebruiken.** | flex: 1;                                                                 |
 | align-self  | Deze optie werkt dezelfde als align-items, maar wordt hier alleen toegepast op de specifieke child.  | align-self: flex-end;<br><img src="./images/align-self.svg" width="300"> |
 
 Voor het volledige overzicht, [zie deze documentatie](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-properties).
