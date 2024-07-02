@@ -46,7 +46,7 @@ Het is met Flexbox trouwens ook mogelijk om elementen weer onder elkaar te zette
 ## Parent/child
 
 Zoals gezegd kan je met een paar regels code al veel voor elkaar krijgen met Flexbox, maar je moet wel eerst weten hoe
-het werkt. Het begint met een HTML-tag instellen als Flexbox. Al zijn directe *children* kunnen vervolgens naar wens
+het werkt. Het begint met in de CSS een HTML-tag instellen als Flexbox. Al zijn directe *children* kunnen vervolgens naar wens
 worden ingesteld met de Flexbox-opties. Zie de afbeelding hieronder. Links in de afbeelding zie je de code die we voor
 dit voorbeeld gebruiken: de `<main>` met daarin drie keer een `<section>`. In HTML-termen spreken we er nu van dat
 de `<main>` de *parent* is en de drie keer `<section>` die erin staan de *children*. Aan de rechterkant van onderstaande
@@ -58,10 +58,10 @@ afbeelding zie je deze parent/child relatie ook nog eens met kleuren uitgebeeld.
 
 ## Flexbox in een Flexbox
 
-Let erop dat in bovenstaand voorbeeld alleen de `<main>` een Flexbox is en dus alleen de drie keer `<section>` kunnen
+Let erop dat in bovenstaand voorbeeld alleen de `<main>` een Flexbox is en dus alleen de drie children kunnen
 worden vormgegeven met Flexbox. Dus stel, in de tweede `<section>` staat ook inhoud die je met Flexbox wil vormgeven,
 dan stel je die `<section>` ook simpelweg in als Flexbox en dan heb je ook weer alle mogelijkheden. Zo krijg je dus een
-Flexbox, in een Flexbox, in een Flexbox, etc. Dit is goed! We raden aan om zoveel mogelijk Flexbox te gebruiken om je
+Flexbox, in een Flexbox, in een Flexbox, etc. Dit is goed! We raden aan om zoveel mogelijk Flexbox te gebruiken om jouw
 layout te bepalen.
 
 <br>
@@ -77,27 +77,27 @@ in en heeft alleen invloed op de children waarop je het instelt.
 
 **Flexbox-opties parent**
 
-| Optie           | Omschrijving                                                                                                                               |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| display: flex;  | Hiermee stel je een HTML-tag in als Flexbox.                                                                                               |
-| flex-direction  | Instellen of de children in een rij of kolom getoond moeten worden.                                                                        |
-| justify-content | Bepaalt de uitlijning op de hoofdas (dus de richting die gekozen is bij flex-direction).                                                   |
-| align-items     | Bepaalt de uitlijning op de dwars-as (dus het tegenovergestelde van wat gekozen is bij flex-direction).                                    |
-| flex-wrap       | Bepaalt of de Flexbox op één rij moet blijven, of zich mag verdelen over meerdere rijen.                                                   |
-| align-content   | Wanneer flex-wrap op `wrap` staat en de content valt over meerdere rijen, is met deze optie de uitlijning tussen deze rijen in te stellen. |
-| gap             | Bepaalt de ruimte tussen de children.                                                                                                      |
+| Optie           | Omschrijving                                                                                                                               | Voorbeeld                                                                           |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |-------------------------------------------------------------------------------------|
+| display: flex;  | Hiermee stel je een HTML-tag in als Flexbox.                                                                                               | display: flex;                                                                      |
+| flex-direction  | Instellen of de children in een rij of kolom getoond moeten worden.                                                                        | flex-direction: column;<br><img src="./images/flex-direction.svg" width="300">      |
+| justify-content | Bepaalt de uitlijning op de hoofdas (dus de richting die gekozen is bij flex-direction).                                                   | justify-content: center;<br><img src="./images/justify-content.svg" width="300">    |
+| align-items     | Bepaalt de uitlijning op de dwars-as (dus het tegenovergestelde van wat gekozen is bij flex-direction).                                    | align-items: flex-end;<br><img src="./images/align-items.svg" width="300">          |
+| flex-wrap       | Bepaalt of de Flexbox op één rij moet blijven, of zich mag verdelen over meerdere rijen.                                                   | flex-wrap: wrap;<br><img src="./images/flex-wrap.svg" width="300">                  |
+| align-content   | Wanneer flex-wrap op `wrap` staat en de content valt over meerdere rijen, is met deze optie de uitlijning tussen deze rijen in te stellen. | align-content: space-between;<br><img src="./images/align-content.svg" width="300"> |
+| gap             | Bepaalt de ruimte tussen de children.                                                                                                      | gap: 20px;<br><img src="./images/gap.svg" width="300">                              |
 
 <br>
 
 **Flexbox-opties child**
 
-| Optie       | Omschrijving                                                                                         |
-| ----------- | ---------------------------------------------------------------------------------------------------- |
-| flex-grow   | Bepaalt hoeveel deze child mag groeien t.o.v. de andere children.                                    |
-| flex-shrink | Bepaalt hoeveel deze child mag krimpen t.o.v. de andere children.                                    |
-| flex-basis  | Bepaalt de standaardgrootte van de child voordat de resterende ruimte wordt verdeeld.                |
-| flex        | Dit is de shorthand-notatie van bovenstaande drie opties. Het wordt aangeraden om deze te gebruiken. |
-| align-self  | Deze optie werkt dezelfde als align-items, maar wordt hier alleen toegepast op de specifieke child.  |
+| Optie       | Omschrijving                                                                                         |                                                                                                                            |
+| ----------- | ---------------------------------------------------------------------------------------------------- |----------------------------------------------------------------------------------------------------------------------------|
+| flex-grow   | Bepaalt hoeveel deze child mag groeien t.o.v. de andere children.                                    | flex-grow: 2;                                                                                                              |
+| flex-shrink | Bepaalt hoeveel deze child mag krimpen t.o.v. de andere children.                                    | flex-grow: 1;                                                                                                              |
+| flex-basis  | Bepaalt de standaardgrootte van de child voordat de resterende ruimte wordt verdeeld.                | flex-basis: 200px;                                                                                                         |
+| flex        | Dit is de shorthand-notatie van bovenstaande drie opties. **Het wordt aangeraden om deze te gebruiken.** | flex: 1;                                                                                                                   |
+| align-self  | Deze optie werkt dezelfde als align-items, maar wordt hier alleen toegepast op de specifieke child.  | align-self: flex-end;<br><img src="./images/align-self.svg" width="300"> |
 
 Voor het volledige overzicht, [zie deze documentatie](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-properties).
 
