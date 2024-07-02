@@ -80,12 +80,12 @@ in en heeft alleen invloed op de children waarop je het instelt.
 | Optie           | Omschrijving                                                                                                                               | Voorbeeld                                                                           |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |-------------------------------------------------------------------------------------|
 | display: flex;  | Hiermee stel je een HTML-tag in als Flexbox.                                                                                               | display: flex;                                                                      |
-| flex-direction  | Instellen of de children in een rij of kolom getoond moeten worden.                                                                        | flex-direction: column;<br><img src="./images/flex-direction.svg" width="250">      |
-| justify-content | Bepaalt de uitlijning op de hoofdas (dus de richting die gekozen is bij `flex-direction`).                                                   | justify-content: center;<br><img src="./images/justify-content.svg" width="250">    |
-| align-items     | Bepaalt de uitlijning op de dwars-as (dus het tegenovergestelde van wat gekozen is bij `flex-direction`).                                    | align-items: flex-end;<br><img src="./images/align-items.svg" width="250">          |
-| flex-wrap       | Bepaalt of de Flexbox op één rij moet blijven, of zich mag verdelen over meerdere rijen.                                                   | flex-wrap: wrap;<br><img src="./images/flex-wrap.svg" width="250">                  |
-| align-content   | Wanneer flex-wrap op `wrap` staat en de content valt over meerdere rijen, is met deze optie de uitlijning tussen deze rijen in te stellen. | align-content: space-between;<br><img src="./images/align-content.svg" width="250"> |
-| gap             | Bepaalt de ruimte tussen de children.                                                                                                      | gap: 20px;<br><img src="./images/gap.svg" width="250">                              |
+| flex-direction  | Instellen of de children in een rij of kolom getoond moeten worden.                                                                        | flex-direction: column;<br><img src="./images/flex-direction.svg" width="300">      |
+| justify-content | Bepaalt de uitlijning op de hoofdas (dus de richting die gekozen is bij `flex-direction`).                                                   | justify-content: center;<br><img src="./images/justify-content.svg" width="300">    |
+| align-items     | Bepaalt de uitlijning op de dwars-as (dus het tegenovergestelde van wat gekozen is bij `flex-direction`).                                    | align-items: flex-end;<br><img src="./images/align-items.svg" width="300">          |
+| flex-wrap       | Bepaalt of de Flexbox op één rij moet blijven, of zich mag verdelen over meerdere rijen.                                                   | flex-wrap: wrap;<br><img src="./images/flex-wrap.svg" width="300">                  |
+| align-content   | Wanneer flex-wrap op `wrap` staat en de content valt over meerdere rijen, is met deze optie de uitlijning tussen deze rijen in te stellen. | align-content: space-between;<br><img src="./images/align-content.svg" width="300"> |
+| gap             | Bepaalt de ruimte tussen de children.                                                                                                      | gap: 20px;<br><img src="./images/gap.svg" width="300">                              |
 
 <br>
 
@@ -97,7 +97,7 @@ in en heeft alleen invloed op de children waarop je het instelt.
 | flex-shrink | Bepaalt hoeveel deze child mag krimpen t.o.v. de andere children.                                    | flex-grow: 1;                                                                                                              |
 | flex-basis  | Bepaalt de standaardgrootte van de child voordat de resterende ruimte wordt verdeeld.                | flex-basis: 200px;                                                                                                         |
 | flex        | Dit is de shorthand-notatie van bovenstaande drie opties. **Het wordt aangeraden om deze te gebruiken.** | flex: 1;                                                                                                                   |
-| align-self  | Deze optie werkt dezelfde als align-items, maar wordt hier alleen toegepast op de specifieke child.  | align-self: flex-end;<br><img src="./images/align-self.svg" width="250"> |
+| align-self  | Deze optie werkt dezelfde als align-items, maar wordt hier alleen toegepast op de specifieke child.  | align-self: flex-end;<br><img src="./images/align-self.svg" width="300"> |
 
 Voor het volledige overzicht, [zie deze documentatie](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-properties).
 
