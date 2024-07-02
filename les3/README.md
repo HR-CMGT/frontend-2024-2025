@@ -78,11 +78,11 @@ in en heeft alleen invloed op de children waarop je het instelt.
 **Flexbox-opties parent**
 
 | Optie           | Omschrijving                                                                                                                               | Voorbeeld                                                                           |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |-------------------------------------------------------------------------------------|
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | display: flex;  | Hiermee stel je een HTML-tag in als Flexbox.                                                                                               | display: flex;                                                                      |
 | flex-direction  | Instellen of de children in een rij of kolom getoond moeten worden.                                                                        | flex-direction: column;<br><img src="./images/flex-direction.svg" width="300">      |
-| justify-content | Bepaalt de uitlijning op de hoofdas (dus de richting die gekozen is bij `flex-direction`).                                                   | justify-content: center;<br><img src="./images/justify-content.svg" width="300">    |
-| align-items     | Bepaalt de uitlijning op de dwars-as (dus het tegenovergestelde van wat gekozen is bij `flex-direction`).                                    | align-items: flex-end;<br><img src="./images/align-items.svg" width="300">          |
+| justify-content | Bepaalt de uitlijning op de hoofdas (dus de richting die gekozen is bij `flex-direction`).                                                 | justify-content: center;<br><img src="./images/justify-content.svg" width="300">    |
+| align-items     | Bepaalt de uitlijning op de dwars-as (dus het tegenovergestelde van wat gekozen is bij `flex-direction`).                                  | align-items: flex-end;<br><img src="./images/align-items.svg" width="300">          |
 | flex-wrap       | Bepaalt of de Flexbox op één rij moet blijven, of zich mag verdelen over meerdere rijen.                                                   | flex-wrap: wrap;<br><img src="./images/flex-wrap.svg" width="300">                  |
 | align-content   | Wanneer flex-wrap op `wrap` staat en de content valt over meerdere rijen, is met deze optie de uitlijning tussen deze rijen in te stellen. | align-content: space-between;<br><img src="./images/align-content.svg" width="300"> |
 | gap             | Bepaalt de ruimte tussen de children.                                                                                                      | gap: 20px;<br><img src="./images/gap.svg" width="300">                              |
@@ -91,13 +91,13 @@ in en heeft alleen invloed op de children waarop je het instelt.
 
 **Flexbox-opties child**
 
-| Optie       | Omschrijving                                                                                         |                                                                          |
-| ----------- | ---------------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------|
-| flex-grow   | Bepaalt hoeveel deze child mag groeien t.o.v. de andere children.                                    | flex-grow: 2;<br><img src="./images/flex-grow.svg" width="300">          |
-| flex-shrink | Bepaalt hoeveel deze child mag krimpen t.o.v. de andere children.                                    | flex-shrink: 1;                                                          |
-| flex-basis  | Bepaalt de standaardgrootte van de child voordat de resterende ruimte wordt verdeeld.                | flex-basis: 200px;                                                       |
+| Optie       | Omschrijving                                                                                             |                                                                          |
+| ----------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| flex-grow   | Bepaalt hoeveel deze child mag groeien t.o.v. de andere children.                                        | flex-grow: 2;<br><img src="./images/flex-grow.svg" width="300">          |
+| flex-shrink | Bepaalt hoeveel deze child mag krimpen t.o.v. de andere children.                                        | flex-shrink: 1;                                                          |
+| flex-basis  | Bepaalt de standaardgrootte van de child voordat de resterende ruimte wordt verdeeld.                    | flex-basis: 200px;                                                       |
 | flex        | Dit is de shorthand-notatie van bovenstaande drie opties. **Het wordt aangeraden om deze te gebruiken.** | flex: 1;                                                                 |
-| align-self  | Deze optie werkt dezelfde als align-items, maar wordt hier alleen toegepast op de specifieke child.  | align-self: flex-end;<br><img src="./images/align-self.svg" width="300"> |
+| align-self  | Deze optie werkt dezelfde als align-items, maar wordt hier alleen toegepast op de specifieke child.      | align-self: flex-end;<br><img src="./images/align-self.svg" width="300"> |
 
 Voor het volledige overzicht, [zie deze documentatie](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-properties).
 
@@ -123,19 +123,25 @@ video: https://developer.chrome.com/docs/devtools/css/flexbox/
 
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexbox cheatsheet](./images/css-flexbox-poster.png)<br><img src="./images/css-flexbox-poster.png" alt="Flexbox cheatsheet" title="Flexbox cheatsheet" width="300">
+- [CSS Flexbox in 100 Seconds](https://www.youtube.com/watch?v=K74l26pE4YA)
 - [Video waarin flex-grow, flex-shrink en flex-basis wordt uitgelegd met voorbeelden](https://www.youtube.com/watch?v=CFgeJq4l1YM)
+
+<br><br>
+**Klaar met het hoofdstuk over Flexbox?**
+<br>
+[Klik dan hier om naar de minipuzzels over Flexbox te gaan.](minipuzzels/flexbox/)
 
 <br><hr><br>
 
 # Navigatie
 
-In de vorige lessen heb je al vaker met `<nav>` gewerkt en in deze les duiken we daar dieper op in. Je weet al dat je in de `<nav>` een `<a>` invoert voer ieder linkje die je wilt tonen. Maar hoe stel je dit linkje correct in? En hoe kan je deze vormgeven? Dat leer je in deze les.
+In de vorige lessen heb je al vaker met `<nav>` gewerkt en in deze les duiken we daar dieper op in. Je weet al dat je in de `<nav>` een `<a>` invoert voor ieder linkje die je wilt tonen. Maar hoe stel je dit linkje correct in? En hoe kan je deze vormgeven? Dat leer je in deze les.
 
 <br>
 
 ## HTML voor de navigatie
 
-Allereerst: wat is een `<a>` eigenlijk? Het doel van deze HTML-tag is dat de gebruiker erop kan klikken en dat die naar een ander stukje content wordt gebracht. Dus stel, je bent op webshop en je wilt alle producten bekijken, dan klik je in het hoofdmenu (wat dus een `<nav>` is) op het linkje *Producten*, zodat je naar die betreffende pagina wordt gebracht.
+Allereerst: wat is een `<a>` eigenlijk? Het doel van deze HTML-tag is dat de gebruiker erop kan klikken en dat die naar een ander stukje content wordt gebracht. Dus stel, je bent op een webshop en je wilt alle producten bekijken, dan klik je in het hoofdmenu (wat dus een `<nav>` is) op het linkje *Producten* (wat dus een `<a>` is), zodat je naar die betreffende pagina wordt gebracht.
 
 De HTML van een navigatie ziet er doorgaans ongeveer als volgt uit:
 
@@ -147,7 +153,7 @@ De HTML van een navigatie ziet er doorgaans ongeveer als volgt uit:
 </nav>
 ```
 
-Je begint met de `<nav>` met daarin één of meerdere `<a>`. Tot zover niets nieuws, dit heb je al meerdere malen gemaakt. Je ziet bij het attribuut `href` nu een `#` staan in dit voorbeeld. Op die plek komt de daadwerkelijke link te staan waarnaar genavigeerd moet worden. Dus waar de gebruiker naartoe moet wanneer die op de `<a>` klikt. Hiervoor heb je twee opties die hieronder worden toegelicht.
+Je begint met de `<nav>` met daarin één of meerdere `<a>`'s. Tot zover niets nieuws, dit heb je al meerdere malen gemaakt. Je ziet bij het attribuut `href` nu een `#` staan in dit voorbeeld. Op die plek komt de daadwerkelijke link te staan waarnaar genavigeerd moet worden. Dus waar de gebruiker naartoe moet worden gestuurd wanneer die op de `<a>` klikt. Hiervoor heb je twee opties die hieronder worden toegelicht.
 
 <br>
 
@@ -159,7 +165,7 @@ Het is mogelijk om te linken naar een onderdeel op dezelfde pagina. Dus stel, er
 
 **Linken naar een andere pagina**
 <br>
-Wanneer je klikt wordt er een hele andere pagina geopend. Dit kan een pagina van dezelfde website zijn, maar ook van een andere. De meeste websites bevatten meerdere pagina's. Zo heb je bijvoorbeeld vaak een homepage, een over-ons-pagina en een contactpagina. De navigatie voor een website met deze drie pagina's zou er als volgt uit kunnen zien:
+Het is ook mogelijk om te linken naar een andere pagina. Dit kan een pagina van dezelfde website zijn, maar ook van een andere. De meeste websites bevatten meerdere pagina's. Zo heb je bijvoorbeeld vaak een homepage, een over-ons-pagina en een contactpagina. De navigatie voor een website met deze drie pagina's zou er als volgt uit kunnen zien:
 
 ```html
 <nav>
@@ -169,14 +175,14 @@ Wanneer je klikt wordt er een hele andere pagina geopend. Dit kan een pagina van
 </nav>
 ```
 
-Hier zie je dat bijvoorbeeld bij het linkje naar de contactpagina de `href` staat ingesteld op `contact.html`. Dit betekent dat er in jouw project ook een bestandje staat die `contact.html` heet en die wordt dan geopend wanneer je op het linkje klikt.
+Hier zie je bijvoorbeeld dat bij het linkje naar de contactpagina de `href` staat ingesteld op `contact.html`. Dit betekent dat er in jouw project ook een bestand moet staan die `contact.html` heet en die wordt dan geopend wanneer je op het linkje klikt.
 
 Bij het linkje voor de homepage zie je in de `href` overigens `index.html` staan, hierin staat namelijk de homepage.
 
-Tot slot, wanneer je een link wilt leggen naar een andere website, dan moet je de volledige URL invoeren, dus vanaf `https://`. Ook raden we aan om deze *externe link* in een nieuw tabje te openen, zodat jouw eigen website ook nog in een tabje open blijft staan. Dit stel je in met het attribuut `target` en de waarde moet dan `_blank` zijn. Dus stel, de link moet naar Google, dan zou dat er als volgt uitzien:
+Tot slot, wanneer je een link wilt leggen naar een andere website, dan moet je de volledige URL invoeren, dus vanaf `https://`. Ook is het aan te raden om deze *externe link* in een nieuw tabje te openen, zodat jouw eigen website ook nog in een tabje open blijft staan. Dit stel je in met het attribuut `target` en de waarde moet dan `_blank` zijn. Dus stel, je wilt een linkje maken die naar de website van CMGT gaat, dan zou dat er als volgt uitzien:
 
 ```html
-<a href="https://www.google.com/" target="_blank">Google</a>
+<a href="https://cmgt.hr.nl/" target="_blank">Google</a>
 ```
 
 
@@ -187,18 +193,31 @@ Tot slot, wanneer je een link wilt leggen naar een andere website, dan moet je d
 Het vormgeven van de `<nav>` werkt zoals met iedere andere HTML-tag, maar de `<a>` heeft enkele uitzonderingen die hier worden uitgelegd. Het is namelijk belangrijk om te weten dat een `<a>` verschillende *states* heeft. Dit betekent dat je afhankelijk van de situatie de `<a>` een andere styling kan geven. Het gaat om de volgende states:
 
 - Standaard: de normale state wanneer geen andere van toepassing is;
-- visited: wanneer de link al eerder aangeklikt is;
 - hover: wanneer de muisaanwijzer op de link is geplaatst (zonder te klikken);
 - active: tijdens het klikken op de link;
+- visited: wanneer de link al eerder aangeklikt is;
 - focus: wanneer de focus op het linkje staat, meestal doordat je met de tabtoets door de pagina heen gaat.
 
 Bovenstaande states kun je in de CSS selecteren door het gebruik van zogenaamde *pseudo-classes*. Deze classes hoef je niet handmatig in de HTML in te voeren, maar krijgt de HTML-tag vanzelf. Meer info is [hier te lezen op W3Schools](https://www.w3schools.com/css/css_pseudo_classes.asp). Zo'n pseudo-class geef je in de CSS met een `:` aan. In het volgende voorbeeld zie je hoe je de kleur van de `<a>` kan veranderen wanneer je muisaanwijzer erop staat:
 
 ```css
+a:visited {
+  color: red;
+}
+
 a:hover {
-  color: #00FF00;
+  color: blue;
+}
+
+a:active {
+  color: purple;
 }
 ```
+
+<br><br>
+**Klaar met het hoofdstuk over navigatie?**
+<br>
+[Klik dan hier om naar de minipuzzels over navigatie te gaan.](minipuzzels/navigatie/)
 
 <br><hr><br>
 
