@@ -43,9 +43,11 @@ Je hebt in les 1 al een project aangemaakt waarin je alle lesopdrachten maakt. D
   - Zorg ervoor dat `Public` is aangevinkt;
   - De overige velden kan je voor nu ongewijzigd laten en klik op `Create repository`;
 - Klik op `uploading an existing file` en upload de bestandsstructuur die je in stap 1 hebt aangemaakt. Klik vervolgens op `Commit changes`. ⚠️ Let op: upload alleen de inhoud van de map `frontend-tussenopdracht`, dus niet de map zelf. Oftewel, je upload alleen de `index.html` en de map `css`;
-- Activeer Github Pages (Settings -> Pages) door onder het kopje **Branch** de optie `main` te selecteren en vervolgens op `Save` te klikken;
+- Activeer Github Pages (Settings -> Pages) door onder het kopje **Branch** de optie `main` te selecteren en vervolgens op `Save` te klikken. Zie ook onderstaande screenshot;
 - Refresh de instellingenpagina een paar minuten later en dan staat bovenin de link naar jouw website. **Dát is de link die je moet inleveren in [Brightspace](https://brightspace.hr.nl/d2l/le/lessons/28886/topics/169219)**;
   - ⚠️ Let op: doorloop bovenstaande stappen van het uploaden nogmaals vóórdat je het inlevert, zodat de meest recente bestanden online te zien zijn.
+
+<img width="800" src="./images/GitHub-Pages.png">
 
 <br>
 
