@@ -23,8 +23,9 @@
   - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
   - [Opdracht 2 - CSS: teksten en kleuren](#opdracht-2---css-teksten-en-kleuren)
   - [Opdracht 3 - CSS: padding \& margin](#opdracht-3---css-padding--margin)
-  - [Opdracht 4a](#opdracht-4a)
-  - [Opdracht 4b - Advanced](#opdracht-4b---advanced)
+  - [Opdracht 4 - CSS: absolute \& relatieve units](#opdracht-4---css-absolute--relatieve-units)
+  - [Opdracht 5a](#opdracht-5a)
+  - [Opdracht 5b - Advanced](#opdracht-5b---advanced)
 
 <br><hr><br>
 
@@ -137,7 +138,7 @@ Met CSS kun je de HTML vormgeven, zoals je vorige les ook al hebt gedaan. Om dit
 Er zijn veel verschillende manieren om HTML-elementen te selecteren en hieronder vind je de meestgebruikte `CSS selectors`.
 
 | Naam                  | Omschrijving                                                                                                                                          | Voorbeeld 1            | Voorbeeld 2                 |
-|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------------|
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------------------- |
 | Element selector      | Selecteer op HTML-tag                                                                                                                                 | h1                     | p                           |
 | Class selector        | Selecteer op class                                                                                                                                    | .button                | .left-column                |
 | ID selector           | Selecteer op ID                                                                                                                                       | #my-hobbies            | #about-me                   |
@@ -188,13 +189,13 @@ Relatieve units geven een grootte aan die afhankelijk is van een andere grootte,
 Hieronder vind je de tabel met de meestgebruikte units.
 
 | Naam unit | Type     | Omschrijving                                                                                                                                                      | Voorbeeld            |
-|-----------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
-| `px`      | Absoluut | Hiermee bepaal je exact hoeveel pixels op je scherm er gebruikt moeten worden.<br> ⚠️ *Gebruik alleen `px` wanneer geen van onderstaande volstaat.*               | `width: 200px;`      |
+| --------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| `px`      | Absoluut | Hiermee bepaal je exact hoeveel pixels op je scherm er gebruikt moeten worden.<br> ⚠️ *Gebruik alleen `px` wanneer geen van onderstaande volstaat.*                | `width: 200px;`      |
 | `%`       | Relatief | Hiermee wordt de waarde bepaald op basis van de breedte of hoogte van de `parent`.                                                                                | `width: 100%;`       |
 | `vw`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `breedte` van de viewport (het zichtbare deel van de browser).                                                    | `width: 50vw;`       |
 | `vh`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `hoogte` van de viewport (het zichtbare deel van de browser).                                                     | `height: 100vh;`     |
 | `rem`     | Relatief | Hiermee wordt de waarde bepaald op basis van de `root font-size`, oftewel de font-size die op de `<html>` staat ingesteld. Gebruik voor `font-size` altijd `rem`. | `font-size: 1.5rem;` |
-| `em`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `font-size` van het parent-element.<br> ⚠️ *Gebruik liever `rem` dan `em` omdat die makkelijker te gebruiken is.* | `font-size: 2em;`    |
+| `em`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `font-size` van het parent-element.<br> ⚠️ *Gebruik liever `rem` dan `em` omdat die makkelijker te gebruiken is.*  | `font-size: 2em;`    |
 
 De vraag die je jezelf iedere keer weer moet stellen is:
 
@@ -366,7 +367,30 @@ Je hebt hier het volgende voor nodig:
 
 <br><hr><br>
 
-## Opdracht 4a
+## Opdracht 4 - CSS: absolute & relatieve units
+
+Breidt jouw webpagina uit door gebruik te maken van absoliute en relatieve units. Voer de volgende stappen uit:
+
+- Zorg ervoor dat de header de helft van de hoogte van het scherm is;
+- Voeg de afbeeldingen van de Pokémon toe in een wit vierkant van 150px. Zorg ervoor dat de afbeelding altijd zo breed is als het vierkant (de hoogte groeit dan automatisch mee). De benodigde afbeeldingen staan in de map `les2/resources`.
+
+<img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="1012">
+
+<br>
+
+Je hebt hier het volgende voor nodig:
+
+| HTML | CSS     | Gebruikte kleuren |
+| ---- |---------| ----------------- |
+| -    | vh      | -                 |
+|      | px      |                   |
+|      | %       |                   |
+|      | padding |                   |
+
+
+<br><hr><br>
+
+## Opdracht 5a
 
 Wanneer je de vorige opdrachten hebt afgerond, breng dan extra styling toe aan jouw pagina door de volgende wireframe na
 te bouwen. Hierbij krijg je op de kleurcodes na geen hints, dus je moet het zelf op het blote oog nabouwen. Je mag ook
@@ -374,9 +398,7 @@ je eigen kleuren kiezen!
 
 > ⚠️ Kijk goed naar de details in het ontwerp en neem dit precies zo over.
 
-De benodigde afbeeldingen staan in de map `les2/resources`.
-
-<img src="./images/Opdracht4a.png" alt="Opdracht 4a" title="Opdracht 4a" width="1012">
+<img src="./images/Opdracht5a.png" alt="Opdracht 5a" title="Opdracht 5a" width="1012">
 
 | HTML | CSS | Gebruikte kleuren |
 | ---- | --- | ----------------- |
@@ -388,7 +410,7 @@ De benodigde afbeeldingen staan in de map `les2/resources`.
 
 <br><hr><br>
 
-## Opdracht 4b - Advanced
+## Opdracht 5b - Advanced
 
 Ben je toe aan nog meer uitdaging? Bouw dan het volgende ontwerp na. Ook bij deze opdracht mag je zelf de kleuren
 kiezen, of de kleuren gebruiken die hieronder staan.
@@ -397,7 +419,7 @@ kiezen, of de kleuren gebruiken die hieronder staan.
 
 De benodigde afbeeldingen staan in de map `les2/resources`.
 
-<img src="./images/Opdracht4b.png" alt="Opdracht 4b" title="Opdracht 4b" width="1012">
+<img src="./images/Opdracht5b.png" alt="Opdracht 5b" title="Opdracht 5b" width="1012">
 
 | HTML | CSS | Gebruikte kleuren |
 | ---- | --- | ----------------- |
