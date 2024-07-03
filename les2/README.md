@@ -371,7 +371,7 @@ Je hebt hier het volgende voor nodig:
 
 Breidt jouw webpagina uit door gebruik te maken van absoliute en relatieve units. Voer de volgende stappen uit:
 
-- Zorg ervoor dat de header de helft van de hoogte van het scherm is;
+- Zorg ervoor dat de `<header>` de helft van de hoogte van het scherm is;
 - Voeg de afbeeldingen van de Pokémon toe in een wit vierkant van 150px. Zorg ervoor dat de afbeelding altijd zo breed is als het vierkant (de hoogte groeit dan automatisch mee). De benodigde afbeeldingen staan in de map `les2/resources`.
 
 <img src="./images/Opdracht4.png" alt="Opdracht 4" title="Opdracht 4" width="1012">
@@ -381,7 +381,7 @@ Breidt jouw webpagina uit door gebruik te maken van absoliute en relatieve units
 Je hebt hier het volgende voor nodig:
 
 | HTML | CSS     | Gebruikte kleuren |
-| ---- |---------| ----------------- |
+| ---- | ------- | ----------------- |
 | -    | vh      | -                 |
 |      | px      |                   |
 |      | %       |                   |
