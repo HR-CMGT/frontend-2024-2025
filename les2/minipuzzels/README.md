@@ -27,7 +27,7 @@ Voltooi onderstaande minipuzzels. Voor iedere oefening is er al code klaargezet 
 <br>
 
 ### Hulpbronnen
-- ...
+- [Video: Learn CSS Units In 8 Minutes](https://www.youtube.com/watch?v=-GR52czEd-0)
 
 <br><hr><br>
 

@@ -50,13 +50,13 @@
 Hieronder vind je de tabel met de meestgebruikte units.
 
 | Naam unit | Type     | Omschrijving                                                                                                                                                      | Voorbeeld            |
-|-----------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
-| `px`      | Absoluut | Hiermee bepaal je exact hoeveel pixels op je scherm er gebruikt moeten worden.<br> ⚠️ *Gebruik alleen `px` wanneer geen van onderstaande volstaat.*               | `width: 200px;`      |
+| --------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| `px`      | Absoluut | Hiermee bepaal je exact hoeveel pixels op je scherm er gebruikt moeten worden.<br> ⚠️ *Gebruik alleen `px` wanneer geen van onderstaande volstaat.*                | `width: 200px;`      |
 | `%`       | Relatief | Hiermee wordt de waarde bepaald op basis van de breedte of hoogte van de `parent`.                                                                                | `width: 100%;`       |
 | `vw`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `breedte` van de viewport (het zichtbare deel van de browser).                                                    | `width: 50vw;`       |
 | `vh`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `hoogte` van de viewport (het zichtbare deel van de browser).                                                     | `height: 100vh;`     |
 | `rem`     | Relatief | Hiermee wordt de waarde bepaald op basis van de `root font-size`, oftewel de font-size die op de `<html>` staat ingesteld. Gebruik voor `font-size` altijd `rem`. | `font-size: 1.5rem;` |
-| `em`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `font-size` van het parent-element.<br> ⚠️ *Gebruik liever `rem` dan `em` omdat die makkelijker te gebruiken is.* | `font-size: 2em;`    |
+| `em`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `font-size` van het parent-element.<br> ⚠️ *Gebruik liever `rem` dan `em` omdat die makkelijker te gebruiken is.*  | `font-size: 2em;`    |
 
 
 
@@ -239,7 +239,7 @@ Met het picture element kan je kiezen om voor verschillende schermen (landscape,
 - [Werken met viewport units](https://web.dev/viewport-units/)
 - [Object Fit](https://www.w3schools.com/css/css3_object-fit.asp)
 - [Lazy Loading](https://www.w3schools.com/tags/att_img_loading.asp)
-- [Youtube responsive images](https://www.youtube.com/watch?v=fp9eVtkQ4EA)
+- [Video: Make Your Site Lightning Fast With Responsive Images](https://www.youtube.com/watch?v=fp9eVtkQ4EA)
 - [CSS Units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 - [Media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries) en [Media query ranges](https://css-tricks.com/the-new-css-media-query-range-syntax/)
 - [Wat is WebP?](https://developers.google.com/speed/webp/faq)

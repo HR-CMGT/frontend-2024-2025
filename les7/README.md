@@ -380,7 +380,7 @@ Op mobiel wil je wellicht geen `hover` effecten hebben, omdat er geen muispointe
 
 # Links
 
-- [Learn CSS animation in 15 minutes](https://www.youtube.com/watch?v=YszONjKpgg4)
+- [Video: Learn CSS animation in 15 minutes](https://www.youtube.com/watch?v=YszONjKpgg4)
 - [W3Schools animations](https://www.w3schools.com/css/css3_animations.asp)
 - [MDN Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
 - [CSS Filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function)

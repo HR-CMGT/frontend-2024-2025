@@ -363,7 +363,7 @@ Je hebt hier het volgende voor nodig:
 
 **Hulpbronnen opdracht 3**
 
-- [Video met uitleg over padding & margin](https://www.youtube.com/watch?v=EhbZGV2dqZ4)
+- [Video: Margin and Padding Deep Dive: The basics](https://www.youtube.com/watch?v=EhbZGV2dqZ4)
 
 <br><hr><br>
 

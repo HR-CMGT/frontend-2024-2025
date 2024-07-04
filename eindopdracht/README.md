@@ -26,7 +26,7 @@ De informatie over de opdracht, het inleveren en de voorwaarden zijn te vinden i
 
 Om jezelf nog verder te helpen volgen hier enkele hulpbronnen:
 - Padding & margin
-  - [Video met uitleg over padding & margin](https://www.youtube.com/watch?v=EhbZGV2dqZ4)
+  - [Video: Margin and Padding Deep Dive: The basics](https://www.youtube.com/watch?v=EhbZGV2dqZ4)
 - CSS Grid
   - [Documentatie op W3Schools](https://www.w3schools.com/css/css_grid.asp)
   - [Documentatie op Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout)
