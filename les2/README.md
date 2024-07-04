@@ -99,7 +99,7 @@ alleen voor de inhoudelijke waarde die het heeft.
 
 # Quiz over semantische HTML-tags
 
-[Klik hier om de quiz over semantische HTML-tags te doen](https://brightspace.hr.nl/d2l/le/lessons/28886/topics/192858)
+[Klik hier om de quiz over semantische HTML-tags te doen](https://brightspace.hr.nl/d2l/le/lessons/110777/topics/443925)
 
 <br><hr><br>
 
