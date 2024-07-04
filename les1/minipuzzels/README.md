@@ -6,12 +6,12 @@
 - [Les 1 - Minipuzzels - Padding \& margin](#les-1---minipuzzels---padding--margin)
   - [Inleiding](#inleiding)
     - [Hulpbronnen](#hulpbronnen)
-  - [Mini-oefening 1](#mini-oefening-1)
-  - [Mini-oefening 2](#mini-oefening-2)
-  - [Mini-oefening 3](#mini-oefening-3)
-  - [Mini-oefening 4](#mini-oefening-4)
-  - [Mini-oefening 5](#mini-oefening-5)
-  - [Mini-oefening 6](#mini-oefening-6)
+  - [Minipuzzel 1](#minipuzzel-1)
+  - [Minipuzzel 2](#minipuzzel-2)
+  - [Minipuzzel 3](#minipuzzel-3)
+  - [Minipuzzel 4](#minipuzzel-4)
+  - [Minipuzzel 5](#minipuzzel-5)
+  - [Minipuzzel 6](#minipuzzel-6)
 
 
 <br><hr><br>
@@ -27,54 +27,54 @@ Voltooi onderstaande minipuzzels. Voor iedere oefening is er al code klaargezet 
 
 <br><hr><br>
 
-## Mini-oefening 1
+## Minipuzzel 1
 
 Maak de code af door in de CSS `padding` toe te passen, zoals hieronder staat aangegeven *(klik op de afbeelding om te vergroten)*.
 
-<img src="images/Mini-oefening1.png" alt="Mini-oefening 1" title="Mini-oefening 1" width="1012">
+<img src="images/Minipuzzel1.png" alt="Minipuzzel 1" title="Minipuzzel 1" width="1012">
 
 
 <br><hr><br>
 
-## Mini-oefening 2
+## Minipuzzel 2
 
 Maak de code af door in de CSS `padding` en `margin` toe te passen, zoals hieronder staat aangegeven *(klik op de afbeelding om te vergroten)*. Ook heb je `selectors` nodig voor deze opdracht.
 
-<img src="images/Mini-oefening2.png" alt="Mini-oefening 2" title="Mini-oefening 2" width="1012">
+<img src="images/Minipuzzel2.png" alt="Minipuzzel 2" title="Minipuzzel 2" width="1012">
 
 <br><hr><br>
 
-## Mini-oefening 3
+## Minipuzzel 3
 
 Maak de code af door in de CSS `padding` en `margin` toe te passen, zoals hieronder staat aangegeven *(klik op de afbeelding om te vergroten)*. Ook heb je `selectors` nodig voor deze opdracht.
 
-<img src="images/Mini-oefening3.png" alt="Mini-oefening 3" title="Mini-oefening 3" width="1012">
+<img src="images/Minipuzzel3.png" alt="Minipuzzel 3" title="Minipuzzel 3" width="1012">
 
 <br><hr><br>
 
-## Mini-oefening 4
+## Minipuzzel 4
 
 Maak de code af door in de CSS `padding` toe te passen, zoals hieronder staat aangegeven *(klik op de afbeelding om te vergroten)*.
 > **LET OP:** Je moet het met 1 regel code oplossen in het CSS-bestand.
 
-<img src="images/Mini-oefening4.png" alt="Mini-oefening 4" title="Mini-oefening 4" width="1012">
+<img src="images/Minipuzzel4.png" alt="Minipuzzel 4" title="Minipuzzel 4" width="1012">
 
 <br><hr><br>
 
-## Mini-oefening 5
+## Minipuzzel 5
 
 Maak de code af door in de CSS `margin` toe te passen, zoals hieronder staat aangegeven *(klik op de afbeelding om te vergroten)*.
 > **LET OP:** Je moet het met 1 regel code oplossen in het CSS-bestand.
 
-<img src="images/Mini-oefening5.png" alt="Mini-oefening 5" title="Mini-oefening 5" width="1012">
+<img src="images/Minipuzzel5.png" alt="Minipuzzel 5" title="Minipuzzel 5" width="1012">
 
 <br><hr><br>
 
-## Mini-oefening 6
+## Minipuzzel 6
 
 Maak de code af door in de CSS `padding` en `margin` toe te passen, maar deze keer worden de waardes niet weergegeven in het ontwerp, die moet je *op het blote oog* proberen na te bootsen *(klik op de afbeelding om te vergroten)*.
 
-<img src="images/Mini-oefening6.png" alt="Mini-oefening 6" title="Mini-oefening 6" width="1012">
+<img src="images/Minipuzzel6.png" alt="Minipuzzel 6" title="Minipuzzel 6" width="1012">
 
 <br><hr>
 

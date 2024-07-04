@@ -6,10 +6,10 @@
 - [Les 3 - Minipuzzels - Navigatie](#les-3---minipuzzels---navigatie)
   - [Inleiding](#inleiding)
   - [Belangrijke informatie!](#belangrijke-informatie)
-  - [Mini-oefening 1](#mini-oefening-1)
-  - [Mini-oefening 2](#mini-oefening-2)
-  - [Mini-oefening 3](#mini-oefening-3)
-  - [Mini-oefening 4](#mini-oefening-4)
+  - [Minipuzzel 1](#mini-oefening-1)
+  - [Minipuzzel 2](#mini-oefening-2)
+  - [Minipuzzel 3](#mini-oefening-3)
+  - [Minipuzzel 4](#mini-oefening-4)
 
 <br><hr><br>
 
@@ -34,36 +34,36 @@ Verder heb je de volgende kleurcodes nodig voor deze oefeningen:
 
 <br><br>
 
-## Mini-oefening 1
+## Minipuzzel 1
 
 In de startmap `minipuzzels/navigatie/oefening1` staat code klaar om te oefenen met het stylen van `<a>`. In de HTML staat een stuk gegenereerde tekst klaar met daarin meerdere linkjes. In de CSS staan alle mogelijke selectors al klaar. Stel voor iedere selector een `color` in en bekijk in de browser wat het effect daarvan is. Speel ook met andere waarden, zoals `background-color` en `text-decoration`.
 
 <br><br><br>
 
-## Mini-oefening 2
+## Minipuzzel 2
 
 Bouw het volgende ontwerp na *(klik op de afbeelding om te vergroten)*:
 
 
-<img src="./images/Mini-oefening2.png" alt="Mini-oefening 2" title="Mini-oefening 2" width="1012">
+<img src="./images/Minipuzzel2.png" alt="Minipuzzel 2" title="Minipuzzel 2" width="1012">
 
 <br><br><br>
 
-## Mini-oefening 3
+## Minipuzzel 3
 
 Bouw het volgende ontwerp na *(klik op de afbeelding om te vergroten)*:
 
 
-<img src="./images/Mini-oefening3.png" alt="Mini-oefening 3" title="Mini-oefening 3" width="1012">
+<img src="./images/Minipuzzel3.png" alt="Minipuzzel 3" title="Minipuzzel 3" width="1012">
 
 <br><br><br>
 
-## Mini-oefening 4
+## Minipuzzel 4
 
 Bouw het volgende ontwerp na *(klik op de afbeelding om te vergroten)*:
 
 
-<img src="./images/Mini-oefening4.png" alt="Mini-oefening 4" title="Mini-oefening 4" width="1012">
+<img src="./images/Minipuzzel4.png" alt="Minipuzzel 4" title="Minipuzzel 4" width="1012">
 
 
 <br><hr>

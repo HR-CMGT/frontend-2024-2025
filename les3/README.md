@@ -23,13 +23,13 @@ In de afgelopen lessen heb je elementen alleen nog maar *onder elkaar* gezet. Wi
 *naast elkaar* te zetten? Dan kan je Flexbox gebruiken. Naast de mogelijkheid om elementen naast elkaar te zetten, krijg
 je ook de mogelijkheid om de uitlijning van de elementen te bepalen. Kijk maar eens naar het volgende voorbeeld:
 
-<img src="minipuzzels/flexbox/images/Mini-oefening2.png" alt="Voorbeeld Flexbox" title="Voorbeeld Flexbox" width="1012">
+<img src="minipuzzels/flexbox/images/Minipuzzel2.png" alt="Voorbeeld Flexbox" title="Voorbeeld Flexbox" width="1012">
 
 <br>
 Met slechts 4 regels code van Flexbox krijg je het eindresultaat dat de drie elementen naast elkaar staan, dat er een ruimte tussen de elementen zit, dat ze als geheel de hele breedte vullen en dat element 1 dubbel zo groot is als element 2 en 3. Maar het volgende is bijvoorbeeld ook mogelijk:
 <br><br>
 
-<img src="minipuzzels/flexbox/images/Mini-oefening3.png" alt="Voorbeeld Flexbox" title="Voorbeeld Flexbox" width="1012">
+<img src="minipuzzels/flexbox/images/Minipuzzel3.png" alt="Voorbeeld Flexbox" title="Voorbeeld Flexbox" width="1012">
 
 <br>
 Om dit eindresultaat te krijgen heb je zelfs maar 3 regels code van Flexbox nodig. Hopelijk krijg je hiermee al een eerste indruk wat de kracht van Flexbox is en dat je met weinig code totaal andere layouts kan maken dan je tot nu toe hebt gedaan.
