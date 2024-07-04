@@ -78,4 +78,4 @@ Maak de code af door in de CSS `padding` en `margin` toe te passen, maar deze ke
 
 <br><hr>
 
-[Terug naar hoofdpagina](../..)
+[Terug naar hoofdpagina](..)
