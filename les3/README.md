@@ -235,8 +235,12 @@ a:active {
 
 # Opdracht: Foodblog
 
-Download de startcode als je dat nog niet had gedaan (zie Teams) en bouw vervolgens het volgende ontwerp na *(klik op de afbeelding om te vergroten)*.
+Download de startcode als je dat nog niet had gedaan ([zie Brightspace](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865)) en bouw vervolgens het volgende ontwerp na *(klik op de afbeelding om te vergroten)*.
+
+Let op, het gaat om twee pagina's: de homepage met recepten en de detailpagina van een recept. Wanneer er op de homepage wordt geklikt op **Bekijk recept** moet er dus naar de detailpagina worden genavigeerd.
 <br>
+De receptomschrijving op de detailpagina moet een échte lijst zijn. Gebruik hiervoor de tag `<ol>`.
+
 Ook hierbij geldt weer: wanneer er een handje op een linkje wordt getoond, dan wordt de hover-state getoond.
 
 Voor deze opdracht heb je de volgende kleurcodes nodig:
@@ -248,11 +252,34 @@ Voor deze opdracht heb je de volgende kleurcodes nodig:
 | `#457B9D` | `rgb(69,123,157)`    |
 | `#A0ABC0` | `rgb(160, 171, 192)` |
 
-<img src="./images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="1012">
+<br>
+
+**Homepage**
+<br>
+<img src="./images/Opdracht1-home.png" alt="Opdracht 1" title="Opdracht 1" width="1012">
+
+<br>
+
+**Detailpagina recept**
+<br>
+<img src="./images/Opdracht1-detail.png" alt="Opdracht 1" title="Opdracht 1" width="1012">
 
 <br>
 
 ## Advanced opdracht
-Als je wat extra uitdaging wilt, dan kan je ook onderstaande wireframe nabouwen. Hierin zitten extra elementen die je door zelfstudie moet zien te achterhalen. Voor de advanced opdracht is geen startcode. De afbeeldingen zijn te vinden in `les3/resources-advanced`
+Als je wat extra uitdaging wilt, dan kan je ook onderstaande wireframe nabouwen. Hierin zitten extra elementen die je door zelfstudie moet zien te achterhalen. De afbeeldingen zijn te vinden in de startcode ([zie Brightspace](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865)). Je mag de startcode gebruiken, maar je mag ook alles zelf maken.
 
-<img src="./images/Opdracht1-advanced.png" alt="Opdracht 1 - Advanced" title="Opdracht 1 - Advanced" width="1012">
+Let op, ook bij deze opdracht gaat het om twee pagina's: de homepage met recepten en de detailpagina van een recept. De detailpagina is dezelfde als bij de reguliere opdracht, maar hij staat ook hieronder nog weergegeven. Wanneer er op de homepage wordt geklikt op **Bekijk recept** moet er dus naar de detailpagina worden genavigeerd
+
+Zorg er tot slot ook voor dat de knoppen **Bekijk recept** netjes tegen de onderkant uitlijnen, zoals ook in het ontwerp te zien is.
+
+
+<br>
+
+**Homepage advanced**
+<br>
+<img src="./images/Opdracht1-advanced.png" alt="Opdracht 1" title="Opdracht 1" width="1012">
+
+**Detailpagina recept**
+<br>
+<img src="./images/Opdracht1-detail.png" alt="Opdracht 1" title="Opdracht 1" width="1012">
