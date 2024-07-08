@@ -16,7 +16,7 @@
     - [Data verwerken](#data-verwerken)
   - [Styling](#styling)
     - [Styling voor checkboxes en radio buttons](#styling-voor-checkboxes-en-radio-buttons)
-- [Formulier responsive maken](#formulier-responsive-maken)
+  - [Formulier responsive maken](#formulier-responsive-maken)
     - [Mobile](#mobile)
   - [Validatie feedback met CSS](#validatie-feedback-met-css)
 - [Opdracht: Forms](#opdracht-forms)
@@ -179,7 +179,7 @@ Op W3Schools vind je nog meer voorbeelden voor [Forms](https://www.w3schools.com
 
 Je kan velden verplicht maken met het attribuut `required`. Wanneer de gebruiker dan het formulier submit, terwijl het verplichte veld nog leeg is, dan wordt hier een melding van getoond en wordt het formulier niet verzonden. Dit attribuut verwacht geen waarde. Je zet dus niet `required=""` neer, maar slechts `required`.
 
-> *Let op dat dit niet gebruikt kan worden voor security (het `required` field is te omzeilen via de browser inspector)*
+> *Let op dat dit niet gebruikt kan worden voor security (het `required` field is te omzeilen via de browser inspector), maar daarover volgende periode meer bij Programmeren 2.*
 
 ```html
 <label for="username">Username:</label>
@@ -270,7 +270,7 @@ button:active {
 <br>
 <br>
 
-# Formulier responsive maken
+## Formulier responsive maken
 
 Op desktop zet je de labels meestal naast je form-element. Dit kan je doen door het label en form-element in een `div` te plaatsen die je vervolgens als Flexbox instelt.
 
