@@ -5,8 +5,7 @@
   - [De tussenopdracht](#de-tussenopdracht)
   - [Google Fonts](#google-fonts)
   - [Stap 1: Nieuw project aanmaken](#stap-1-nieuw-project-aanmaken)
-  - [Stap 2: GitHub gereed maken](#stap-2-github-gereed-maken)
-  - [Stap 3: Wireframe nabouwen](#stap-3-wireframe-nabouwen)
+  - [Stap 2: Wireframe nabouwen](#stap-2-wireframe-nabouwen)
     - [Van wireframe naar ontwerp](#van-wireframe-naar-ontwerp)
 
 
@@ -35,23 +34,8 @@ Je hebt in les 1 al een project aangemaakt waarin je alle lesopdrachten maakt. D
 
 <br>
 
-## Stap 2: GitHub gereed maken
 
-- Maak een account op [github.com](https://www.github.com). Dit account ga je de rest van je studieloopbaan (en daarna) gebruiken;
-- Maak een `repository` aan voor de tussenopdracht;
-  - Voer `repository name` in (*bv. frontend-tussenopdracht*);
-  - Zorg ervoor dat `Public` is aangevinkt;
-  - De overige velden kan je voor nu ongewijzigd laten en klik op `Create repository`;
-- Klik op `uploading an existing file` en upload de bestandsstructuur die je in stap 1 hebt aangemaakt. Klik vervolgens op `Commit changes`. ⚠️ Let op: upload alleen de inhoud van de map `frontend-tussenopdracht`, dus niet de map zelf. Oftewel, je upload alleen de `index.html` en de map `css`;
-- Activeer Github Pages (Settings -> Pages) door onder het kopje **Branch** de optie `main` te selecteren en vervolgens op `Save` te klikken. Zie ook onderstaande screenshot;
-- Refresh de instellingenpagina een paar minuten later en dan staat bovenin de link naar jouw website. **Dát is de link die je moet inleveren in [Brightspace](https://brightspace.hr.nl/d2l/le/lessons/28886/topics/169219)**;
-  - ⚠️ Let op: doorloop bovenstaande stappen van het uploaden nogmaals vóórdat je het inlevert, zodat de meest recente bestanden online te zien zijn.
-
-<img width="800" src="./images/GitHub-Pages.png">
-
-<br>
-
-## Stap 3: Wireframe nabouwen
+## Stap 2: Wireframe nabouwen
 De opdracht is om onderstaande wireframe na te bouwen, ***zoals omschreven in de cursushandleiding***.
 <br>
 ### Van wireframe naar ontwerp
