@@ -319,7 +319,7 @@ Voor de lesopdracht van vandaag moet je een nieuw project opzetten, anders kan j
 
 1. Maak een nieuw project aan en noem die `forms`, zoals omschreven in [opdracht 1c van les 1](../les1/#opdracht-1c---eerste-project-aanmaken). Zet daarin de bestandsstructuur neer, zoals omschreven in [opdracht 1d uit les 1](../les1/#opdracht-1d---bestandsstructuur-html-en-css).
 2. Maak vervolgens in de nieuwe map `forms` nog een bestand aan met de naam `contact.html`. Kopieer de volledige inhoud van `index.html` en plak deze in `contact.html`. Dubbelcheck of je nu in beide bestanden dezelfde link hebt naar de `style.css`, zodat je dezelfde stijl op beide pagina's kan gebruiken.
-3. Kopieer vervolgens de volgende startcode. Pas nog wel in beide HTML-bestanden de `href` van alle linkjes aan in de `<nav>`, zodat deze linken naar de juiste pagina. Voor meer info over hoe je dit correct instelt, [lees dit dan hier terug bij les 3](../les3/#html-voor-de-navigatie).
+3. Kopieer vervolgens onderstaande startcode. Pas nog wel in beide HTML-bestanden de `href` van alle linkjes aan in de `<nav>`, zodat deze linken naar de juiste pagina. Voor meer info over hoe je dit correct instelt, [lees dit dan hier terug bij les 3](../les3/#html-voor-de-navigatie).
 4. Open de `index.html` met Live Server en controleer of de navigatie werkt. Wanneer je naar de andere pagina navigeert zou de `<h1>` moeten veranderen, want die is anders per pagina, maar de vormgeving zou wel hetzelfde moeten blijven.
 
 <br>
@@ -427,7 +427,7 @@ Bij de `<select>` onder *Verstuur naar** moet je kunnen kiezen uit de volgende d
 <br><br>
 
 ## Opdracht 3: CSS formulier
-Op dit moment staat alle HTML, maar het ziet er nog niet zo mooi uit. Schrijf daarom de CSS, zodat het eruit ziet als onderstaand ontwerp. Bedenk hoe je Flexbox hiervoor kan inzetten.
+Op dit moment is alle HTML geschreven, maar het ziet er nog niet zo mooi uit. Schrijf daarom de CSS, zodat het eruit ziet als onderstaand ontwerp. Bedenk hoe je `Flexbox` hiervoor kan inzetten.
 
 <img src="./images/Opdracht3.png" alt="Opdracht 3" title="Opdracht 3" width="1012">
 
@@ -441,7 +441,7 @@ Je formulier ziet er nu mooi uit! Maar op mobile wordt het erg krap. Zorg er daa
 <br><br>
 
 ## Opdracht 5: Validatie
-Jouw formulier ziet er mooi uit én is goed leesbaar op mobile. De laatste stap is nu om validatie toe te passen. Dat betekent dat je aangeeft welke velden correct zijn ingevoerd en welke nog niet. Dus wanneer er bijvoorbeeld geen naam is ingevoerd moet dat veld een rode rand krijgen. Zo wordt het voor de gebruiker duidelijk welke velden er nog ingevoerd moeten worden. Zorg er daarom voor dat jouw formulier eruit ziet zoals in onderstaand ontwerp.
+Jouw formulier ziet er nu mooi uit én is goed leesbaar op mobile. De laatste stap is om `validatie` toe te passen. Dat betekent dat je aangeeft welke velden correct zijn ingevoerd en welke nog niet. Dus wanneer er bijvoorbeeld geen naam is ingevoerd moet dat veld een rode rand krijgen. Zo wordt het voor de gebruiker duidelijk welke velden er nog ingevoerd moeten worden. Zorg er daarom voor dat jouw formulier er hetzelfde uitziet als in onderstaand ontwerp.
 
 <img src="./images/Opdracht5.png" alt="Opdracht 5" title="Opdracht 5" width="1012">
 
@@ -451,7 +451,7 @@ Jouw formulier ziet er mooi uit én is goed leesbaar op mobile. De laatste stap 
 
 ## Opdracht 6: het formulier versturen
 
-Voor deze les hebben we een testfunctie gemaakt waarmee je daadwerkelijk het formulier naar ons kan versturen. Voer daarvoor de volgende stappen uit:
+Tijdens dit vak ga je niet leren hoe je dit formulier kan verzenden, dat komt in de volgende periode. Om je toch te laten zien dat je dit formulier nu daadwerkelijk kan verzenden hebben we een testfunctie gemaakt waardoor jouw formulier wordt gemaild. Voer daarvoor de volgende stappen uit:
 1. In de `<select>` kies je een docent en naar diegene wordt jouw vraag gemaild. Om dit werkend te maken moet je bij ieder formulier-element de juiste `name` invoeren. De volgende names zijn nodig: 'name', 'city', 'email', 'birthdate', 'category', 'question' en 'send-to'. Iedere docent heeft trouwens een eigen nummer die je als `value` in moet stellen: 0 = Antwan, 1 = Bas, 2 = Erik en 3 = Martijn.
 
 2. Vervang de openings `<form>` tag voor onderstaande. De betekenis van deze attributen leer je bij Programmeren 2.

@@ -58,6 +58,17 @@ Hieronder vind je de tabel met de meestgebruikte units.
 | `rem`     | Relatief | Hiermee wordt de waarde bepaald op basis van de `root font-size`, oftewel de font-size die op de `<html>` staat ingesteld. Gebruik voor `font-size` altijd `rem`. | `font-size: 1.5rem;` |
 | `em`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `font-size` van het parent-element.<br> ⚠️ *Gebruik liever `rem` dan `em` omdat die makkelijker te gebruiken is.*  | `font-size: 2em;`    |
 
+De vraag die je jezelf iedere keer weer moet stellen is:
+
+> Op basis van ***wat*** moet ik de grootte bepalen?
+
+- Stel je wilt de `width` van een `section` instellen. Moet deze dan relatief zijn aan de parent (`%`) of aan het hele scherm (`vw`)?
+- Of je wilt de `height` van de `header` instellen. Moet deze dan relatief zijn aan de hoogte van het scherm (`vh`) of moet deze altijd hetzelfde zijn op ieder scherm (`px`)?
+
+Door deze vragen te beantwoorden, kun je de juiste CSS units kiezen en ervoor zorgen dat je ontwerp zowel flexibel als consistent is op verschillende apparaten en schermformaten.
+Experimenteer met verschillende units om te begrijpen hoe ze zich gedragen in verschillende situaties en kies de meest geschikte unit voor elke specifieke toepassing.
+
+[Kijk voor voorbeelden hiervan terug naar het hoofdstuk hierover in les 2.](../les2/#voorbeelden)
 
 
 <br>
