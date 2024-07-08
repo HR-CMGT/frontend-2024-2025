@@ -2,8 +2,9 @@
 
 **Inhoudsopgave**
 - [Les 4](#les-4)
-  - [De tussenopdracht](#de-tussenopdracht)
+  - [Minipuzzels - Nested Flexbox](#minipuzzels---nested-flexbox)
   - [Google Fonts](#google-fonts)
+- [De tussenopdracht](#de-tussenopdracht)
   - [Stap 1: Nieuw project aanmaken](#stap-1-nieuw-project-aanmaken)
   - [Stap 2: Wireframe nabouwen](#stap-2-wireframe-nabouwen)
     - [Van wireframe naar ontwerp](#van-wireframe-naar-ontwerp)
@@ -11,11 +12,13 @@
 
 <hr>
 
-## De tussenopdracht
-
-De informatie over de opdracht, het inleveren en de voorwaarden zijn te vinden in de ***cursushandleiding***.
-
 <br>
+
+## Minipuzzels - Nested Flexbox
+
+[Klik hier om naar de minipuzzels over nested Flexbox te gaan.](minipuzzels/nested-flexbox/)
+
+<br><hr><br>
 
 ## Google Fonts
 
@@ -26,6 +29,12 @@ Doorloop de volgende stappen om een font van Google te gebruiken:
 3. Scroll naar de verschillende fontstijlen die beschikbaar zijn en klik rechts op het plusje bij de fontstijlen die je wilt gebruiken (klik ze niet zomaar allemaal aan, want hoe meer je er kiest, hoe langer het duurt om jouw pagina te laden);
 4. Klik rechts bovenin op het winkelmandje, selecteer de optie `@import` en kopieer de code die daar staat (zonder de `<style>` tag) en plak deze bovenin jouw CSS-bestand;
 5. Scroll in het winkelmandje nog iets verder naar het kopje `CSS rules to specify families` en kopieer de benodigde CSS-code en plak deze bij de gewenste selector in je CSS-bestand.
+
+<br><hr><br>
+
+# De tussenopdracht
+
+De informatie over de opdracht, het inleveren en de voorwaarden zijn te vinden in de ***cursushandleiding***.
 
 <br>
 
