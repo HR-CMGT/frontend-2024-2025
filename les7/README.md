@@ -10,11 +10,11 @@
 - [Animation](#animation)
 - [Position fixed](#position-fixed)
   - [Sticky](#sticky)
-- [Klassikale opdracht](#klassikale-opdracht)
-    - [Transition op nav bar](#transition-op-nav-bar)
-    - [Fixed nav bar](#fixed-nav-bar)
-    - [Fancy cards](#fancy-cards)
-    - [Chat request](#chat-request)
+- [Opdracht: Foodblog animeren](#opdracht-foodblog-animeren)
+  - [Transition op nav bar](#transition-op-nav-bar)
+  - [Fixed nav bar](#fixed-nav-bar)
+  - [Fancy cards](#fancy-cards)
+  - [Chat request](#chat-request)
   - [Zelfstandig oefenen](#zelfstandig-oefenen)
     - [Falling cards](#falling-cards)
     - [Audio bars](#audio-bars)
@@ -199,24 +199,26 @@ nav.sticky {
 
 <br><br><br>
 
-# Klassikale opdracht
+# Opdracht: Foodblog animeren
 
-### Transition op nav bar
+Voer onderstaande opdrachten uit op de Foodblog die je in een eerdere les hebt gemaakt. Maak eventueel een kopie van dat project als je het origineel wilt behouden.
+
+## Transition op nav bar
 
 - Plaats een `hover` effect op je nav bar buttons.
 - Gebruik `transition` om de hover te animeren.
 
-### Fixed nav bar
+## Fixed nav bar
 
 - Gebruik `position:sticky` en `top:0` om de nav bar vast te zetten, zelfs als de pagina scrolt.
 
-### Fancy cards
+## Fancy cards
 
 - Plaats een aantal divs naast elkaar met de class `card`.
 - On `hover` maak je de card groter met `transform:scale(1.1)` en je voegt een schaduw toe met `box-shadow`.
 - Geef de card een `transition` zodat de animatie geleidelijk gaat.
 
-### Chat request
+## Chat request
 
 - Ontwerp een chat window in een eigen div element, onder je andere html code.
 - Gebruik `position fixed` met `bottom, right` om het chat window rechtsonderin beeld te fixeren, ongeacht de scroll-positie.
