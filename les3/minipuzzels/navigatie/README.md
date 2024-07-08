@@ -6,10 +6,11 @@
 - [Les 3 - Minipuzzels - Navigatie](#les-3---minipuzzels---navigatie)
   - [Inleiding](#inleiding)
   - [Belangrijke informatie!](#belangrijke-informatie)
-  - [Minipuzzel 1](#mini-oefening-1)
-  - [Minipuzzel 2](#mini-oefening-2)
-  - [Minipuzzel 3](#mini-oefening-3)
-  - [Minipuzzel 4](#mini-oefening-4)
+  - [Startcode downloaden](#startcode-downloaden)
+  - [Minipuzzel 1](#minipuzzel-1)
+  - [Minipuzzel 2](#minipuzzel-2)
+  - [Minipuzzel 3](#minipuzzel-3)
+  - [Minipuzzel 4](#minipuzzel-4)
 
 <br><hr><br>
 
@@ -31,6 +32,13 @@ Verder heb je de volgende kleurcodes nodig voor deze oefeningen:
 | `#FFFFFF` | `rgb(255,255,255)` |
 | `#457B9D` | `rgb(69,123,157)`  |
 
+
+
+<br>
+
+## Startcode downloaden
+
+[Download de startcode uit Brightspace.](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865)
 
 <br><br>
 

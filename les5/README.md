@@ -252,7 +252,7 @@ Met het picture element kan je kiezen om voor verschillende schermen (landscape,
 
 # Opdracht: Foodblog responsive
 
-Hieronder staat het eindresultaat op mobile én op desktop wat je moet zien te bereiken. In de startcode werkt veel al op desktop, maar nog niet alles klopt én ook is niet alles al optimaal ingesteld, waardoor het op kleinere schermen nog niet overeenkomt met het eindresultaat wat je hieronder ziet. Zorg er dus voor dat je tot onderstaand eindresultaat komt. Hou voor mobile een maximale breedte van `480px` aan, dus stel daar je media-query op in.
+Hieronder staat het eindresultaat op mobile én op desktop wat je moet zien te bereiken. In [de startcode](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865) werkt veel al op desktop, maar nog niet alles klopt én ook niet alles is al optimaal ingesteld, waardoor het op kleinere schermen nog niet overeenkomt met het eindresultaat wat je hieronder ziet. Zorg er dus voor dat je tot onderstaand eindresultaat komt. Hou voor mobile een maximale breedte van `480px` aan, dus stel daar je media-queries op in.
 
 > Let erop dat de headings op mobile iets kleiner zijn dan op desktop, dus bedenk een slimme manier om dit gemakkelijk aan te passen, zodat je niet iedere heading los hoeft in te stellen op mobile.
 

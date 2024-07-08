@@ -5,6 +5,7 @@
 **Inhoudsopgave**
 - [Les 3 - Minipuzzels - Flexbox](#les-3---minipuzzels---flexbox)
   - [Inleiding](#inleiding)
+  - [Startcode downloaden](#startcode-downloaden)
   - [Minipuzzel 1](#minipuzzel-1)
   - [Minipuzzel 2](#minipuzzel-2)
   - [Minipuzzel 3](#minipuzzel-3)
@@ -18,6 +19,12 @@
 
 ## Inleiding
 Voltooi onderstaande minipuzzels. Voor iedere oefening is er al code klaargezet die jij moet afronden. Let erop dat deze oefeningen alleen over CSS gaan. Dus je mag het HTML-bestand wel bekijken, maar schrijf alleen maar code in het CSS-bestand.
+
+<br>
+
+## Startcode downloaden
+
+[Download de startcode uit Brightspace.](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865)
 
 <br>
 
