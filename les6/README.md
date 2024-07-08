@@ -2,6 +2,8 @@
 
 **Inhoudsopgave**
 - [Les 6](#les-6)
+- [Opdracht: W3C validator](#opdracht-w3c-validator)
+  - [De opdracht](#de-opdracht)
 - [Formulieren](#formulieren)
   - [Type invoervelden](#type-invoervelden)
     - [Voorbeelden van input](#voorbeelden-van-input)
@@ -26,6 +28,26 @@
   - [Opdracht 6: het formulier versturen](#opdracht-6-het-formulier-versturen)
 - [Links](#links)
 
+
+<br><br><br>
+
+
+# Opdracht: W3C validator
+Wanneer je een website maakt is het belangrijk dat hier geen fouten in staan. Een manier om dit te voorkomen is door handmatig op zoek te gaan naar fouten. Hoewel dit altijd onderdeel van het werk zal zijn, bestaan er ook tools die voor jou geautomatiseerd op zoek gaan naar fouten. Vandaag ga je kijken naar de W3C validator.
+
+De W3C validator controleert of jouw HTML voldoet aan alle regels die er zijn voor HTML. Het gebruik ervan is heel simpel: je geeft het de HTML-code en je drukt op ***Check***. Vervolgens krijg je een lijst met *errors* en *warnings* over jouw code, die je vervolgens kan oplossen.
+
+## De opdracht
+
+Voer de volgende stappen uit:
+
+1. Ga naar de [W3C validator](https://validator.w3.org/);
+2. Standaard vraagt hij om een URL, maar als jouw website nog niet online staat kan je klikken op ***Validate by Direct Input***, waarna je de HTML-code kan kopiëren en plakken;
+3. Klik op de knop ***Check***;
+4. Je krijgt nu een lijst met *errors* en *warnings* en *info* (zie screenshot hieronder). *Errors* moet je altijd oplossen, *warnings* zijn vaak een goed idee om op te lossen en *info* is over het algemeen puur ter informatie.
+5. Lees de meldingen aandachtig door en probeer ze op te lossen in de code. Begrijp je een melding niet? Kopieer de melding dan en plak deze in Google. De kans is zeer groot dat je dan het antwoord zult vinden. Ga door tot alle meldingen zijn opgelost.
+
+<img src="./images/W3C-validator.png" alt="W3C validator" title="W3C validator" width="1012">
 
 <br><br><br>
 
