@@ -238,7 +238,7 @@ select {
 }
 ```
 
-<br>Ook de submit button is geheel naar wens vorm te geven. Dit werkt nagenoeg hetzelfde zoals je een `<a>` zou vormgeven, met als uitzondering dat op een button de muisaanwijzer niet automatisch een handje wordt wanneer die op de button staat. Dit kan je oplossen door de CSS-optie `cursor` op `pointer` in te stellen. Je kank `all:unset;` gebruiken om alle default styling van een button te verwijderen.
+<br>Ook de submit button is geheel naar wens vorm te geven. Dit werkt nagenoeg hetzelfde zoals je een `<a>` zou vormgeven, met als uitzondering dat op een button de muisaanwijzer niet automatisch een handje wordt wanneer die op de button staat. Dit kan je oplossen door de CSS-optie `cursor` op `pointer` in te stellen. Je kan `all:unset;` gebruiken om alle default styling van een button te verwijderen.
 
 ```css
 button {
