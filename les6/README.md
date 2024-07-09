@@ -217,11 +217,13 @@ In kwartaal 2 en 3 gaan we leren hoe we de ingevulde data uit het formulier kunn
 De default styling van veel form-elementen is niet erg mooi en niet optimaal leesbaar. Gelukkig kan je form-elementen volledig naar wens vormgeven met CSS. Een aantal tips om het leesbaarder te maken:
 - stel de `font-size` van de inputs in op de standaard font-size door deze op `1rem` in te stellen;
 - voeg `padding` toe om de leesbaarheid te verbeteren.
+- gebruik `accent-color` om al je input elementen een default kleur te geven die past bij je website.
 
 ```css
 /* voorbeeld: alle input elementen */
 input {
     font-size:1rem;
+    accent-color:red;
 }
 /* voorbeeld: alleen text input */
 input[type=text] {
@@ -263,8 +265,7 @@ button:active {
 
 ### Styling voor checkboxes en radio buttons
 
-[Bekijk hier een voorbeeld.](https://www.w3schools.com/howto/howto_css_custom_checkbox.asp)
-
+Behalve [accent color](https://developer.mozilla.org/en-US/docs/Web/CSS/accent-color) zijn er niet veel mogelijkheden om checkboxes en radio buttons te stylen. Je kan echter wel je eigen checkbox / radio button bouwen. [Bekijk hier een voorbeeld.](https://www.w3schools.com/howto/howto_css_custom_checkbox.asp).
 
 <br>
 <br>
