@@ -168,6 +168,8 @@ Let op dat je hier het attribuut `name` voor iedere input hetzelfde moet invoere
 ```
 <br>
 
+> *Het label is niet alleen voor de leesbaarheid maar helpt ook om de "click area" van het element groter te maken*
+
 ### Meer form elementen
 
 Op W3Schools vind je nog meer voorbeelden voor [Forms](https://www.w3schools.com/html/html_forms.asp) en [Form Elements](https://www.w3schools.com/html/html_form_elements.asp)
@@ -312,23 +314,13 @@ Op mobile veranderen we de `flex-direction` in `column` zodat de items onder elk
 Je kan via CSS de stijl aanpassen van een form element dat niet goed is ingevuld. 
 
 ```html
-<input type="email" required>
+<input type="email" required placeholder="piet@henk.nl">
 ```
 ```css
-input:invalid {
-    border: 3px solid red;
+input:user-invalid {
     background-color:pink;
-}
-input:valid {
-    border: 3px solid green;
-    background-color:lightgreen;
-}
-```
-Je kan kijken of er nog placeholder tekst in het formulier veld staat. Dit wordt dan niet als ongeldig gezien. 
-```css
-input:invalid:not(:placeholder-shown) {
-    border:3px solid red;
-}
+    border: 2px solid red;
+} 
 ```
 
 <br><br>
