@@ -14,6 +14,4 @@ Je gaat nu je eindproduct afronden. Dit is een website over een fictief product.
 
 ## Inleveren
 
-- Maak een nieuwe repository voor je website op github.com
-- Klik op `upload files` om je `index.html`, en je `css` map met `styles.css` te uploaden.
-- Ga naar [Brightspace](https://brightspace.hr.nl/d2l/le/lessons/28886/topics/187340) voor de deadline en lever daar je werk in
+Maak een screencast en ga naar [Brightspace](https://brightspace.hr.nl/d2l/le/lessons/110777/topics/464210) voor de deadline om daar je screencast in te leveren.

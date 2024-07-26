@@ -5,8 +5,7 @@
   - [De eindopdracht](#de-eindopdracht)
   - [Hulpbronnen](#hulpbronnen)
   - [Stap 1: Repository aanmaken](#stap-1-repository-aanmaken)
-  - [Stap 2: GitHub Pages activeren](#stap-2-github-pages-activeren)
-  - [Stap 3: Wireframes nabouwen](#stap-3-wireframes-nabouwen)
+  - [Stap 2: Wireframes nabouwen](#stap-2-wireframes-nabouwen)
     - [Desktop wireframe - Home](#desktop-wireframe---home)
     - [Desktop wireframe - Contact](#desktop-wireframe---contact)
     - [Mobile wireframe - Home](#mobile-wireframe---home)
@@ -51,17 +50,7 @@ Om jezelf nog verder te helpen volgen hier enkele hulpbronnen:
 
 <br>
 
-## Stap 2: GitHub Pages activeren
-De volgende stappen zijn pas uit te voeren wanneer je al bestanden hebt om te uploaden.
-- Klik op `uploading an existing file` om je `index.html`, en `style.css` te uploaden en klik vervolgens op `Commit changes`;
-  - ⚠️ Let op: sleep de index.html en de css-map het scherm in, zodat de mappenstructuur behouden blijft;
-- Activeer Github Pages (Settings -> Pages) door onder het kopje **Branch** de optie `main` te selecteren en vervolgens op `Save` te klikken;
-- Refresh de instellingenpagina een paar minuten later en dan staat bovenin de link naar jouw website. **Dát is de link die je moet inleveren in [Brightspace](https://brightspace.hr.nl/d2l/le/lessons/28886/topics/187340)**;
-  - ⚠️ Let op: doorloop bovenstaande stappen van het uploaden nogmaals vóórdat je het inlevert, zodat de meest recente bestanden online te zien zijn.
-
-<br>
-
-## Stap 3: Wireframes nabouwen
+## Stap 2: Wireframes nabouwen
 De opdracht is om onderstaande wireframes na te bouwen, zoals omschreven in de cursushandleiding.
 Hieronder staan nog enkele tips om je hierbij te helpen.
 
