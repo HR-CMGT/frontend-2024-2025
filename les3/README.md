@@ -121,8 +121,8 @@ video: https://developer.chrome.com/docs/devtools/css/flexbox/
 
 ## Hulpbronnen voor Flexbox
 
+- [Flexbox basics cheatsheet](./images/flex-cheatsheet.pdf)<br><a href="./images/flex-cheatsheet.pdf"><img src="./images/flex-cheatsheet.png" alt="Flexbox cheatsheet" title="Flexbox cheatsheet" width="300"></a>
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Flexbox basics cheatsheet](./images/flex-cheatsheet.pdf)<br><img src="./images/flex-cheatsheet.png" alt="Flexbox cheatsheet" title="Flexbox cheatsheet" width="300">
 - [Video: CSS Flexbox in 100 Seconds](https://www.youtube.com/watch?v=K74l26pE4YA)
 - [Video waarin flex-grow, flex-shrink en flex-basis wordt uitgelegd met voorbeelden](https://www.youtube.com/watch?v=CFgeJq4l1YM)
 

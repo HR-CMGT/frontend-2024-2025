@@ -30,8 +30,8 @@ Voltooi onderstaande minipuzzels. Voor iedere oefening is er al code klaargezet 
 
 **Hulpbronnen voor de minipuzzels**
 
+- [Flexbox basics cheatsheet](../../images/flex-cheatsheet.pdf)<br><a href="../../images/flex-cheatsheet.pdf"><img src="../../images/flex-cheatsheet.png" alt="Flexbox cheatsheet" title="Flexbox cheatsheet" width="300"></a>
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Flexbox cheatsheet](../../images/css-flexbox-poster.png)<br><img src="../../images/css-flexbox-poster.png" alt="Flexbox cheatsheet" title="Flexbox cheatsheet" width="300">
 - [Video waarin flex-grow, flex-shrink en flex-basis wordt uitgelegd](https://www.youtube.com/watch?v=CFgeJq4l1YM)
 
 <br><br><br>
