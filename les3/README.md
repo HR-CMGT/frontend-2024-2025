@@ -69,7 +69,7 @@ layout te bepalen.
 ## Meest gebruikte Flexbox-opties
 
 De Flexbox-opties zijn in te delen in twee categorieën: *parent-opties* en *child-opties*. Zoals de naam al
-verraad
+verraadt
 stel je de parent-opties in op de parent en heeft invloed op **alle** children. De child-opties stel je op de children zelf
 in en heeft alleen invloed op de children waarop je het instelt.
 
