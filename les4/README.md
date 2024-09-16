@@ -12,7 +12,14 @@
 
 <hr>
 
-<br>
+
+
+
+## Flexbox Froggy 🐸
+
+[Flex je skills met de flexbox froggy game](https://flexboxfroggy.com)
+
+<br><hr><br>
 
 ## Minipuzzels - Nested Flexbox
 
