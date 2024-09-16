@@ -52,7 +52,7 @@ dit voorbeeld gebruiken: de `<main>` met daarin drie keer een `<section>`. In HT
 de `<main>` de *parent* is en de drie keer `<section>` die erin staan de *children*. Aan de rechterkant van onderstaande
 afbeelding zie je deze parent/child relatie ook nog eens met kleuren uitgebeeld.
 
-> De termen *parent* en *children* komen vaak terug bij HTML, dus onthoudt ze goed!
+> De termen *parent* en *children* komen vaak terug bij HTML, dus onthoud ze goed!
 
 <img src="./images/flex-parent-children.jpg" alt="Flex parent children" title="Flex parent children" width="1012">
 
