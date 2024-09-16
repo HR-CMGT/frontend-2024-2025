@@ -2,6 +2,8 @@
 
 **Inhoudsopgave**
 - [Les 4](#les-4)
+  - Bespreken foodblog les 3
+  - Flex Game
   - [Minipuzzels - Nested Flexbox](#minipuzzels---nested-flexbox)
   - [Google Fonts](#google-fonts)
 - [De tussenopdracht](#de-tussenopdracht)
@@ -10,10 +12,7 @@
     - [Van wireframe naar ontwerp](#van-wireframe-naar-ontwerp)
 
 
-<hr>
-
-
-
+<br><hr><br>
 
 ## Flexbox Froggy 🐸
 
