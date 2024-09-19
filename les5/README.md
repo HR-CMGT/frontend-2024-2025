@@ -75,7 +75,7 @@ Experimenteer met verschillende units om te begrijpen hoe ze zich gedragen in ve
 
 ## Box sizing
 
-Bij het bepalen van de afmetingen van je elementen kan het verwarrend zijn dat de `margin` en `padding` niet automatisch worden meegenomen in de berekening. Dit kan je corrigeren met:
+Bij het bepalen van de afmetingen van je elementen kan het verwarrend zijn dat de `border` en `padding` niet automatisch worden meegenomen in de berekening. Dit kan je corrigeren met:
 
 ```css
 * {
