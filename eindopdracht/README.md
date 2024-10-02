@@ -4,8 +4,7 @@
 - [Eindopdracht](#eindopdracht)
   - [De eindopdracht](#de-eindopdracht)
   - [Hulpbronnen](#hulpbronnen)
-  - [Stap 1: Repository aanmaken](#stap-1-repository-aanmaken)
-  - [Stap 2: Wireframes nabouwen](#stap-2-wireframes-nabouwen)
+  - [Wireframes nabouwen](#wireframes-nabouwen)
     - [Desktop wireframe - Home](#desktop-wireframe---home)
     - [Desktop wireframe - Contact](#desktop-wireframe---contact)
     - [Mobile wireframe - Home](#mobile-wireframe---home)
@@ -41,16 +40,7 @@ Om jezelf nog verder te helpen volgen hier enkele hulpbronnen:
 
 <br>
 
-## Stap 1: Repository aanmaken
-
-- Ga naar [github.com](https://www.github.com) en maak een nieuwe `repository` aan voor de eindopdracht;
-  - Voer `repository name` in (*bv. frontend-eindopdracht*);
-  - Zorg ervoor dat `Public` is aangevinkt;
-  - De overige velden kan je voor nu ongewijzigd laten en klik op `Create repository`;
-
-<br>
-
-## Stap 2: Wireframes nabouwen
+## Wireframes nabouwen
 De opdracht is om onderstaande wireframes na te bouwen, zoals omschreven in de cursushandleiding.
 Hieronder staan nog enkele tips om je hierbij te helpen.
 
