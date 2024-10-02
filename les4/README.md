@@ -2,6 +2,8 @@
 
 **Inhoudsopgave**
 - [Les 4](#les-4)
+  - Bespreken foodblog les 3
+  - Flex Game
   - [Minipuzzels - Nested Flexbox](#minipuzzels---nested-flexbox)
   - [Google Fonts](#google-fonts)
 - [De tussenopdracht](#de-tussenopdracht)
@@ -10,9 +12,13 @@
     - [Van wireframe naar ontwerp](#van-wireframe-naar-ontwerp)
 
 
-<hr>
+<br><hr><br>
 
-<br>
+## Flexbox Froggy 🐸
+
+[Flex je skills met de flexbox froggy game](https://flexboxfroggy.com)
+
+<br><hr><br>
 
 ## Minipuzzels - Nested Flexbox
 
@@ -64,7 +70,8 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 > - Gebruik `display:flex` om elementen naast elkaar te zetten;
 > - Hou de `flex-documentatie` bij de hand, en gebruik de `flex-inspector` in je browser.
 > - Je mag `<div>` gebruiken om binnen sections containers aan te maken, wanneer je dit puur voor de styling nodig hebt;
-> - Gebruik `padding` en `margin` om witruimte toe te voegen rondom je containers en binnen je containers
+> - Gebruik `padding` om witruimte toe te voegen binnen je containers.
+> - Ruimte buiten de containers voeg je toe met `flex` eigenschappen zoals `gap` en `justify-content`. Als je container geen onderdeel van flex layout is, dan gebruik je `margin`.
 > - Je kan de hele opdracht oplossen met de stof uit de lessen, je hebt geen google/stackoverflow/chatgpt nodig.
 > - Als iets niet lukt kan je je medestudenten, peercoaches en docenten om hulp vragen!
 

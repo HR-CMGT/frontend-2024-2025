@@ -52,7 +52,7 @@ dit voorbeeld gebruiken: de `<main>` met daarin drie keer een `<section>`. In HT
 de `<main>` de *parent* is en de drie keer `<section>` die erin staan de *children*. Aan de rechterkant van onderstaande
 afbeelding zie je deze parent/child relatie ook nog eens met kleuren uitgebeeld.
 
-> De termen *parent* en *children* komen vaak terug bij HTML, dus onthoudt ze goed!
+> De termen *parent* en *children* komen vaak terug bij HTML, dus onthoud ze goed!
 
 <img src="./images/flex-parent-children.jpg" alt="Flex parent children" title="Flex parent children" width="1012">
 
@@ -69,7 +69,7 @@ layout te bepalen.
 ## Meest gebruikte Flexbox-opties
 
 De Flexbox-opties zijn in te delen in twee categorieën: *parent-opties* en *child-opties*. Zoals de naam al
-verraad
+verraadt
 stel je de parent-opties in op de parent en heeft invloed op **alle** children. De child-opties stel je op de children zelf
 in en heeft alleen invloed op de children waarop je het instelt.
 
@@ -97,7 +97,7 @@ in en heeft alleen invloed op de children waarop je het instelt.
 | flex-shrink | Bepaalt hoeveel deze child mag krimpen t.o.v. de andere children.                                        | flex-shrink: 1;                                                          |
 | flex-basis  | Bepaalt de standaardgrootte van de child voordat de resterende ruimte wordt verdeeld.                    | flex-basis: 200px;                                                       |
 | flex        | Dit is de shorthand-notatie van bovenstaande drie opties. **Het wordt aangeraden om deze te gebruiken.** | flex: 1;                                                                 |
-| align-self  | Deze optie werkt dezelfde als align-items, maar wordt hier alleen toegepast op de specifieke child.      | align-self: flex-end;<br><img src="./images/align-self.svg" width="300"> |
+| align-self  | Deze optie werkt hetzelfde als align-items, maar wordt hier alleen toegepast op het specifieke child.      | align-self: flex-end;<br><img src="./images/align-self.svg" width="300"> |
 
 Voor het volledige overzicht, [zie deze documentatie](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-properties).
 
