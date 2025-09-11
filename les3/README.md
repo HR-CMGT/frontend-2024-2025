@@ -273,7 +273,7 @@ Let op, ook bij deze opdracht gaat het om twee pagina's: de homepage met recepte
 
 Zorg er tot slot ook voor dat de knoppen **Bekijk recept** netjes tegen de onderkant uitlijnen, zoals ook in het ontwerp te zien is.
 
-
+<br>
 <br>
 
 **Homepage advanced**
